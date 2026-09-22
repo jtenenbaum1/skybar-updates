@@ -4,26 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Skybar</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Tue, 22 Sep 2026 09:50:20 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>0.2.1</title>
+            <pubDate>Tue, 22 Sep 2026 12:11:14 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.0
+            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.1
 
-- Skybar now updates itself. It checks for new versions every hour, shows
-  them at the bottom of the panel, and "Check for Updates…" is in the
-  actions menu and in Settings.
-- The Illness tab: CDC wastewater, hospital admission, and emergency
-  department data for your county and state, with the forecast hubs'
-  outlook for COVID, flu, and RSV.
-- A menu bar cue for illness levels with a threshold of your choosing.
-- The app icon.
+- Verifies the update pipeline. No functional changes.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.0-2.zip" length="2120772" type="application/octet-stream" sparkle:edSignature="qwWPByU0iCYKBWFfCdNvCKdMNaK8bcf0QyPsRbjtEliyBVM02aYltl2TL+NoxtQSZj/lQOo5fcD9wcuMOgltBg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.1-3.zip" length="2120778" type="application/octet-stream" sparkle:edSignature="Mq9tYH9BPYeHau2F59svIkYCxGFTRt9Y9WVIAfWTHpJVXYvydrlTUSPcG3brmWpvTiZPucE8BgWFfi2HVjd+BA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: HIGdSE+/o0SyHHUToCZt32Y2C0dbrJWFXqAP9CLTj5PXBXL89cdsf2Cn1FOJhmonKjM740hHEd+45rNZhLM6Cw==
-length: 1554
+edSignature: czH98WaogiTLW3DS/P1Hjk3DQV6uN/StytQX24KkTq9SyWFLzhWjjHFHqvxyMvW657YKEm9X7njzLvGYIMIHBg==
+length: 1171
 -->
