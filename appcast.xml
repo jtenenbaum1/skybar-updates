@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Skybar</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 22 Sep 2026 09:50:20 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.0
+
+- Skybar now updates itself. It checks for new versions every hour, shows
+  them at the bottom of the panel, and "Check for Updates…" is in the
+  actions menu and in Settings.
+- The Illness tab: CDC wastewater, hospital admission, and emergency
+  department data for your county and state, with the forecast hubs'
+  outlook for COVID, flu, and RSV.
+- A menu bar cue for illness levels with a threshold of your choosing.
+- The app icon.
+]]></description>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.0-2.zip" length="2120772" type="application/octet-stream" sparkle:edSignature="qwWPByU0iCYKBWFfCdNvCKdMNaK8bcf0QyPsRbjtEliyBVM02aYltl2TL+NoxtQSZj/lQOo5fcD9wcuMOgltBg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: HIGdSE+/o0SyHHUToCZt32Y2C0dbrJWFXqAP9CLTj5PXBXL89cdsf2Cn1FOJhmonKjM740hHEd+45rNZhLM6Cw==
+length: 1554
+-->
