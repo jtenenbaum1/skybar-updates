@@ -4,19 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Skybar</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Tue, 22 Sep 2026 12:11:14 -0400</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <title>0.2.2</title>
+            <pubDate>Tue, 22 Sep 2026 12:34:11 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.1
+            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.2
 
-- Verifies the update pipeline. No functional changes.
+- **Forecast days**: choose how many days the daily list shows — 3, 5, 7, or 10.
+  The setting is in Settings, next to the temperature unit.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.1-3.zip" length="2120778" type="application/octet-stream" sparkle:edSignature="Mq9tYH9BPYeHau2F59svIkYCxGFTRt9Y9WVIAfWTHpJVXYvydrlTUSPcG3brmWpvTiZPucE8BgWFfi2HVjd+BA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.2-4.zip" length="2125087" type="application/octet-stream" sparkle:edSignature="bzUAfj86HubP/ebBSR6c/0xqNoyByayRRTPrN5g0BIpFcn+hQkKhMyOCddKP5e5TCsUmS56AIqe7GJnCIm3kAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: czH98WaogiTLW3DS/P1Hjk3DQV6uN/StytQX24KkTq9SyWFLzhWjjHFHqvxyMvW657YKEm9X7njzLvGYIMIHBg==
-length: 1171
+edSignature: a8+FqUKnP4bg6uVpxlWwZxMxX8TQksae55c3lRXYoj6jW0fWIKTKtFlK3vBk1XmbN2RuWHxC4XDQckkSrGtZBA==
+length: 1259
 -->
