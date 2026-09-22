@@ -4,20 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Skybar</title>
         <item>
-            <title>0.2.2</title>
-            <pubDate>Tue, 22 Sep 2026 12:34:11 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <title>0.2.3</title>
+            <pubDate>Tue, 22 Sep 2026 13:13:33 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.2
+            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.3
 
-- **Forecast days**: choose how many days the daily list shows — 3, 5, 7, or 10.
-  The setting is in Settings, next to the temperature unit.
+- Fixes the illness cue in the menu bar, which never appeared. The level
+  word now follows the temperature (`62° · Moderate`) at the threshold you
+  choose in Settings.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.2-4.zip" length="2125087" type="application/octet-stream" sparkle:edSignature="bzUAfj86HubP/ebBSR6c/0xqNoyByayRRTPrN5g0BIpFcn+hQkKhMyOCddKP5e5TCsUmS56AIqe7GJnCIm3kAg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.3-5.zip" length="2124102" type="application/octet-stream" sparkle:edSignature="CLw4l3KNcXdw5QTO3TYaUiGey8rMrpxs2B/7o5P+TZ9ovUEucshlJI9g4Hk1jL8zJG1bCdB99NqypWhLGFVMDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: a8+FqUKnP4bg6uVpxlWwZxMxX8TQksae55c3lRXYoj6jW0fWIKTKtFlK3vBk1XmbN2RuWHxC4XDQckkSrGtZBA==
-length: 1259
+edSignature: zV107fQh3YsMvaOXV3Vlcscv/cbYm79rtBN9r48SfBzUWOLzruA/q6+cWOndN6RGyjf43XWuOO88RCgfBvPaBg==
+length: 1288
 -->
