@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Wed, 23 Sep 2026 14:21:24 -0400</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>0.3.1</title>
+            <pubDate>Wed, 23 Sep 2026 14:32:44 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.0
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.1
 
-- Skybar is now **Airborne**, a better name for an app that tracks both the weather and the illnesses in the air around you.
-- New app icon.
-- Your settings, saved Tomorrow.io key, and cached illness data carry over.
+- The weather window, menu bar, and Settings now use the same selected forecast provider.
+- Changing providers refreshes both views immediately.
+- Existing provider choices are carried over, with the weather window's last choice taking precedence if the two differed.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.0-10.zip" length="3729009" type="application/octet-stream" sparkle:edSignature="aRSexEfIypY1wiMDXKNiLiiEjXUxKKXpGP4aB5NFCu3DA+znmx5Bcf8aNWmXGOQgW2GmC6D+E43Zns0OPKnXBw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.1-11.zip" length="3728178" type="application/octet-stream" sparkle:edSignature="0lbKHtixjv0hPJMYLl511qRblkxQ4ZPJM2HAX+lwVryWP13pht4L0GTi5Re2up+cgoSqBAtLRHHgMLiNBCpFAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: a3aAJhhJCt4Eim6PfjAjRPHsdg8cKLA7GCiTaPv1W7uwL234Zemsmop84AHAaes6UNsoupZWhpByISgxBLGBBg==
-length: 1341
+edSignature: Wz3hRmNhdj9fo4lQMbLUekumaMM3VT3c3vN5bVrJwyvcvoEqzSG8dSkYDjbBIAXpUo/GKESPhlcJ3QEQGOnHAw==
+length: 1392
 -->
