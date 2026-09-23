@@ -4,24 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Skybar</title>
         <item>
-            <title>0.2.4</title>
-            <pubDate>Wed, 23 Sep 2026 09:16:46 -0400</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <title>0.2.6</title>
+            <pubDate>Wed, 23 Sep 2026 12:50:31 -0400</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.4
+            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.6
 
-- Browse a catalog of 13 CDC surveillance illnesses in the Illness window. Choose which illnesses appear in the dropdown and menu bar cue.
-- Compare available local and national illness data in the window, and choose the scope used by the dropdown and menu bar cue in Settings.
-- Read clearer illness pages and charts with more visible dates, units, source details, and forecast uncertainty where available. Overview cards now use a subtle tint to distinguish activity levels.
-- Sort the illness sidebar by family, name, or highest activity within each family.
+- Opt in to home weather alerts in Settings after choosing your home from the current location or a city/ZIP search. Skybar checks Apple Weather for that location about every 15 minutes while the app runs, even if you travel or use Tomorrow.io for the forecast.
+- See active home alerts in the menu bar, dropdown, and Weather window. Multiple alerts appear in severity order. Lower-severity alerts use a compact ribbon; severe and extreme alerts use a larger card. Each alert shows its issuing agency and opens the full details. Watch wording appears only when the issuer calls the alert a watch.
+- Receive a macOS notification for each new active home alert. Turning alerts off hides the cues and removes Skybar's delivered alert notifications. A brief network failure no longer hides an unexpired warning.
+- This update also includes the weather browsing, provider choice, and forecast artwork improvements prepared after the last public feed update.
 
-Coverage and reporting dates vary by illness, source, and geography. Some national or local signals may be unavailable; wastewater detections do not establish a diagnosed human case, and activity levels do not predict individual risk.
+Alert coverage depends on Apple Weather and the issuing agency. Polling while Skybar runs is not a substitute for an immediate emergency warning service.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.4-6.zip" length="2826843" type="application/octet-stream" sparkle:edSignature="+pdX+sLaJ7Zar6hmn1ZpAuU1QyK+jQiGL4DWREYmdAt1FCWVNgFpHI+Vac3qOTNq5/KeEdRYtw4xfYHNYyvSDw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.6-8.zip" length="3681533" type="application/octet-stream" sparkle:edSignature="xkdjRnOzoxXxI4d5mE6sTgI6dGXRsAdP76iVA9rqaHA1qd/Du224GMWcsHPgWUC/HNJ2CRVt4icfFbdIj4uXDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tCdK8C1HqtCdPx8iOeCmFawYd2NpMdoIji2mLhqpdV852bPzaKYqFU+1nZ2+DAIbJxcPGXC1A93ozuKhjsTLDg==
-length: 1913
+edSignature: qWtapO0eRfDXnmrUssUuGilSppfXxjYpMpaEpQDZ+ohvWDLfD7ZBqj8IlzfQ/3hTGI2+ZcULmShRMGH/8GREDw==
+length: 2224
 -->
