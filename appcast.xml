@@ -2,21 +2,23 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Skybar</title>
+        <title>Airborne</title>
         <item>
-            <title>0.2.7</title>
-            <pubDate>Wed, 23 Sep 2026 13:50:38 -0400</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <title>0.3.0</title>
+            <pubDate>Wed, 23 Sep 2026 14:21:24 -0400</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.7
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.0
 
-- The illness menu now expands to use the available screen height, so more watched illnesses are visible at once. Long lists still scroll.
+- Skybar is now **Airborne**, a better name for an app that tracks both the weather and the illnesses in the air around you.
+- New app icon.
+- Your settings, saved Tomorrow.io key, and cached illness data carry over.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.7-9.zip" length="3682731" type="application/octet-stream" sparkle:edSignature="w7NwP2MKAabH+3A3EzPcPrdP+S6mzVn/rJ69/Gk4ZZQGzDJ/7UbVJPBc60z5TtN0PRNdRhGhGdYFBhaaZgSGBw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.0-10.zip" length="3729009" type="application/octet-stream" sparkle:edSignature="aRSexEfIypY1wiMDXKNiLiiEjXUxKKXpGP4aB5NFCu3DA+znmx5Bcf8aNWmXGOQgW2GmC6D+E43Zns0OPKnXBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZcowQZ0r9QrGKnS4AcIswKd1SwCH/X8PZF3MVtmpgLp4A5fvRVHqzotEA5qP83jYRLWwQU95Oj2UqJQx8qkVBA==
-length: 1255
+edSignature: a3aAJhhJCt4Eim6PfjAjRPHsdg8cKLA7GCiTaPv1W7uwL234Zemsmop84AHAaes6UNsoupZWhpByISgxBLGBBg==
+length: 1341
 -->
