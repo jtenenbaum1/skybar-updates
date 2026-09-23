@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Wed, 23 Sep 2026 15:20:48 -0400</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <title>0.3.3</title>
+            <pubDate>Wed, 23 Sep 2026 15:44:54 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.2
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.3
 
-- The illness window sidebar is tidier: the Local/National switch spans the full width, the sort menu sits under a simple "Sort by" label, and Overview is set apart by a section instead of a stray divider.
+- The illness window's Local/National switch and sort menu now stretch to the full sidebar width, so they line up with the rest of the sidebar instead of floating in the middle.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.2-12.zip" length="3731679" type="application/octet-stream" sparkle:edSignature="WWMefGyUiwGsaC48788IF0uzz9tDIpIqSBrlb3IsTRbgn6X+wtDNHtN3WVeEiMTPKjEr9FKkhnpSOfnWlBH9Bg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.3-13.zip" length="3742818" type="application/octet-stream" sparkle:edSignature="0etMzVR03KtmpENDj6FGeeq3vwrVM1kDlJdcsSXszv+WXvBnIn+XVJGaoDUdI0ksErg+QyloUV/LK7xPoXdECg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: unbAsrJPh8XKyN2d2ZQT5eyWZfBdMRz8VSGAC446rV7oYDmL/RO1Jw+dPctGPFtkJXnZk/Vos47Mzd+JW9isCA==
-length: 1330
+edSignature: B8gfxHyYzw5Wr2gPi/gvqLTwt98MnvF626KPy37fv3K34r+E9xt2drfeJZP/yDQ18SgeQKWdZsY2d7TKkF8cBQ==
+length: 1302
 -->
