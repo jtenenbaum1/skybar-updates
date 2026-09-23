@@ -4,21 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Skybar</title>
         <item>
-            <title>0.2.3</title>
-            <pubDate>Tue, 22 Sep 2026 13:13:33 -0400</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <title>0.2.4</title>
+            <pubDate>Wed, 23 Sep 2026 09:16:46 -0400</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.3
+            <description sparkle:format="markdown"><![CDATA[# Skybar 0.2.4
 
-- Fixes the illness cue in the menu bar, which never appeared. The level
-  word now follows the temperature (`62° · Moderate`) at the threshold you
-  choose in Settings.
+- Browse a catalog of 13 CDC surveillance illnesses in the Illness window. Choose which illnesses appear in the dropdown and menu bar cue.
+- Compare available local and national illness data in the window, and choose the scope used by the dropdown and menu bar cue in Settings.
+- Read clearer illness pages and charts with more visible dates, units, source details, and forecast uncertainty where available. Overview cards now use a subtle tint to distinguish activity levels.
+- Sort the illness sidebar by family, name, or highest activity within each family.
+
+Coverage and reporting dates vary by illness, source, and geography. Some national or local signals may be unavailable; wastewater detections do not establish a diagnosed human case, and activity levels do not predict individual risk.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.3-5.zip" length="2124102" type="application/octet-stream" sparkle:edSignature="CLw4l3KNcXdw5QTO3TYaUiGey8rMrpxs2B/7o5P+TZ9ovUEucshlJI9g4Hk1jL8zJG1bCdB99NqypWhLGFVMDA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Skybar-0.2.4-6.zip" length="2826843" type="application/octet-stream" sparkle:edSignature="+pdX+sLaJ7Zar6hmn1ZpAuU1QyK+jQiGL4DWREYmdAt1FCWVNgFpHI+Vac3qOTNq5/KeEdRYtw4xfYHNYyvSDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zV107fQh3YsMvaOXV3Vlcscv/cbYm79rtBN9r48SfBzUWOLzruA/q6+cWOndN6RGyjf43XWuOO88RCgfBvPaBg==
-length: 1288
+edSignature: tCdK8C1HqtCdPx8iOeCmFawYd2NpMdoIji2mLhqpdV852bPzaKYqFU+1nZ2+DAIbJxcPGXC1A93ozuKhjsTLDg==
+length: 1913
 -->
