@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.1</title>
-            <pubDate>Wed, 23 Sep 2026 14:32:44 -0400</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <title>0.3.2</title>
+            <pubDate>Wed, 23 Sep 2026 15:20:48 -0400</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.1
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.2
 
-- The weather window, menu bar, and Settings now use the same selected forecast provider.
-- Changing providers refreshes both views immediately.
-- Existing provider choices are carried over, with the weather window's last choice taking precedence if the two differed.
+- The illness window sidebar is tidier: the Local/National switch spans the full width, the sort menu sits under a simple "Sort by" label, and Overview is set apart by a section instead of a stray divider.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.1-11.zip" length="3728178" type="application/octet-stream" sparkle:edSignature="0lbKHtixjv0hPJMYLl511qRblkxQ4ZPJM2HAX+lwVryWP13pht4L0GTi5Re2up+cgoSqBAtLRHHgMLiNBCpFAA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.2-12.zip" length="3731679" type="application/octet-stream" sparkle:edSignature="WWMefGyUiwGsaC48788IF0uzz9tDIpIqSBrlb3IsTRbgn6X+wtDNHtN3WVeEiMTPKjEr9FKkhnpSOfnWlBH9Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Wz3hRmNhdj9fo4lQMbLUekumaMM3VT3c3vN5bVrJwyvcvoEqzSG8dSkYDjbBIAXpUo/GKESPhlcJ3QEQGOnHAw==
-length: 1392
+edSignature: unbAsrJPh8XKyN2d2ZQT5eyWZfBdMRz8VSGAC446rV7oYDmL/RO1Jw+dPctGPFtkJXnZk/Vos47Mzd+JW9isCA==
+length: 1330
 -->
