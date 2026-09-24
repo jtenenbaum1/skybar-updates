@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.6</title>
-            <pubDate>Thu, 24 Sep 2026 09:48:06 -0400</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+            <title>0.3.7</title>
+            <pubDate>Thu, 24 Sep 2026 10:34:06 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.6
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.7
 
-- Try experimental national forecasts for flu, COVID-19, RSV, and HMPV. Enable them in Settings → Illness or on an illness page, then choose the National view.
-- Compare a ridge model with No change and Last year baselines. Models calculate on your Mac from current CDC histories and show dates, medians, and exploratory uncertainty bands.
-- Save each generated forecast and its input history locally for comparison with future reports. The test models appear in their own card and do not change CDC forecasts or illness activity levels.
+- Clicking the Airborne icon in the Dock opens the main window or brings it to the front when it is already open.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.6-16.zip" length="3898976" type="application/octet-stream" sparkle:edSignature="EfY1IuiOPdQ3xHOPfNTFfHyNld1zdbJ6v5jgWbz+78q59nGoQvvtRrrQl/0Y66wG788gS2gNtaaFo3ZN6cHjDw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.7-17.zip" length="3907773" type="application/octet-stream" sparkle:edSignature="dwaa0UAIChQcxD2FQgMU5TX+0YWXtG5+Yk+EE5CZtHlNGlyxzgYn6Relfzpgu1V3zcej8uDF512z8eFzmLPZDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2bR/SSnr+4QXAjhpWPOz/5n4sbvqgdZnJTSxqWCwY8Lzijh8WWhX0Wv/Tk2KD/BqM+XIwGY/R2LNxXdCjvHdBw==
-length: 1664
+edSignature: KfP1QnVzOHfXfnJuyw6wCt98Ahi+XBvBeLAg/hd26GeF62ENaOwmCFurYkEssjnu1eaKeyZdF15tyEh5sXEeDA==
+length: 1238
 -->
