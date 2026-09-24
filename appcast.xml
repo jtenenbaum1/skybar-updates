@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.4</title>
-            <pubDate>Thu, 24 Sep 2026 08:39:58 -0400</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+            <title>0.3.5</title>
+            <pubDate>Thu, 24 Sep 2026 09:12:37 -0400</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.4
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.5
 
-- Connect weekly illness activity levels where reports are consecutive, while leaving missing weeks visibly unconnected.
-- Give wastewater detections a 0–100% axis, quiet national wastewater values more room, and reported cases whole-number ticks.
-- Label chart units and keep a newer unavailable report week visible on the date axis.
+- Show directional arrows beside current CDC illness trends in the main window and menu.
+- Add Airborne's observed signal trends for ED visits, test positivity, and national wastewater when recent, comparable reports are available.
+- Label each trend by its source and leave an estimate unavailable when the data are stale, mixed, or insufficient.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.4-14.zip" length="3753650" type="application/octet-stream" sparkle:edSignature="kUn3KMRi9OJVO8ZjLuGAM5Wdoeab/HB0eC7lFU8RatTIzhv28VouiRnAEvoLLVMbs7uhR8l5kzls9yb+EhWcBA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.5-15.zip" length="3772082" type="application/octet-stream" sparkle:edSignature="fF+1/nI8LSoofDIdgy496a9y5ahxqZez/92V3FCdqjykklVZAcXsffyRpNmF773nZIbMWiMdbeDrOHDwPaCJCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 8o7oWLMXNVx68HltWHN21duGgY+rQyaE//w3P2O/mmiPD0eYFuM2/Sgo+Y6y9AW5CrkOtAvQaeLjpDbN6RcjCQ==
-length: 1461
+edSignature: CCxc76WgB7w80uwZHAletFJ+pzK39EZxm7denlDsckuzWhuGMi08DHymRFgK3apcr07AP1aNtUibczZEjmkLAg==
+length: 1472
 -->
