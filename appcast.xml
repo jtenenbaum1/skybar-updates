@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.3</title>
-            <pubDate>Wed, 23 Sep 2026 15:44:54 -0400</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <title>0.3.4</title>
+            <pubDate>Thu, 24 Sep 2026 08:39:58 -0400</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.3
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.4
 
-- The illness window's Local/National switch and sort menu now stretch to the full sidebar width, so they line up with the rest of the sidebar instead of floating in the middle.
+- Connect weekly illness activity levels where reports are consecutive, while leaving missing weeks visibly unconnected.
+- Give wastewater detections a 0–100% axis, quiet national wastewater values more room, and reported cases whole-number ticks.
+- Label chart units and keep a newer unavailable report week visible on the date axis.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.3-13.zip" length="3742818" type="application/octet-stream" sparkle:edSignature="0etMzVR03KtmpENDj6FGeeq3vwrVM1kDlJdcsSXszv+WXvBnIn+XVJGaoDUdI0ksErg+QyloUV/LK7xPoXdECg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.4-14.zip" length="3753650" type="application/octet-stream" sparkle:edSignature="kUn3KMRi9OJVO8ZjLuGAM5Wdoeab/HB0eC7lFU8RatTIzhv28VouiRnAEvoLLVMbs7uhR8l5kzls9yb+EhWcBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: B8gfxHyYzw5Wr2gPi/gvqLTwt98MnvF626KPy37fv3K34r+E9xt2drfeJZP/yDQ18SgeQKWdZsY2d7TKkF8cBQ==
-length: 1302
+edSignature: 8o7oWLMXNVx68HltWHN21duGgY+rQyaE//w3P2O/mmiPD0eYFuM2/Sgo+Y6y9AW5CrkOtAvQaeLjpDbN6RcjCQ==
+length: 1461
 -->
