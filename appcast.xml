@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.5</title>
-            <pubDate>Thu, 24 Sep 2026 09:12:37 -0400</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+            <title>0.3.6</title>
+            <pubDate>Thu, 24 Sep 2026 09:48:06 -0400</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.5
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.6
 
-- Show directional arrows beside current CDC illness trends in the main window and menu.
-- Add Airborne's observed signal trends for ED visits, test positivity, and national wastewater when recent, comparable reports are available.
-- Label each trend by its source and leave an estimate unavailable when the data are stale, mixed, or insufficient.
+- Try experimental national forecasts for flu, COVID-19, RSV, and HMPV. Enable them in Settings → Illness or on an illness page, then choose the National view.
+- Compare a ridge model with No change and Last year baselines. Models calculate on your Mac from current CDC histories and show dates, medians, and exploratory uncertainty bands.
+- Save each generated forecast and its input history locally for comparison with future reports. The test models appear in their own card and do not change CDC forecasts or illness activity levels.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.5-15.zip" length="3772082" type="application/octet-stream" sparkle:edSignature="fF+1/nI8LSoofDIdgy496a9y5ahxqZez/92V3FCdqjykklVZAcXsffyRpNmF773nZIbMWiMdbeDrOHDwPaCJCg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.6-16.zip" length="3898976" type="application/octet-stream" sparkle:edSignature="EfY1IuiOPdQ3xHOPfNTFfHyNld1zdbJ6v5jgWbz+78q59nGoQvvtRrrQl/0Y66wG788gS2gNtaaFo3ZN6cHjDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CCxc76WgB7w80uwZHAletFJ+pzK39EZxm7denlDsckuzWhuGMi08DHymRFgK3apcr07AP1aNtUibczZEjmkLAg==
-length: 1472
+edSignature: 2bR/SSnr+4QXAjhpWPOz/5n4sbvqgdZnJTSxqWCwY8Lzijh8WWhX0Wv/Tk2KD/BqM+XIwGY/R2LNxXdCjvHdBw==
+length: 1664
 -->
