@@ -4,23 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.9</title>
-            <pubDate>Mon, 05 Oct 2026 14:13:36 -0400</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+            <title>0.3.10</title>
+            <pubDate>Mon, 05 Oct 2026 15:07:14 -0400</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.9
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.10
 
-- Trend map layers: choose Wastewater, ED visits, Hospital admissions and Test positivity in any combination. The map now shows where each is rising (orange ↗) and falling (blue ↘).
-- Smaller, clearer markers: a compact pill for each local area and a badge for each state replace the large bubbles. The whole-US view shows every state plus the 40 largest local areas, so busy metros no longer pile up.
-- A simpler legend, with a "How to read this map" button that explains fills, outlines, pills and badges.
-- Test positivity uses CDC's 3-week average for COVID-19 and RSV. It isn't available for flu yet.
-- When one CDC source doesn't load, that layer shows a warning and a Retry button, and the other layers keep working.
+- A cleaner trend map legend, in three aligned groups: Wastewater (Low → High), Outline (rising or falling) and Markers (local area or whole state). The "How to read this map" button is still at the end.
+- States with too few wastewater sampling sites now have a light gray fill and a dashed border, and the legend says so ("too few wastewater sites").
+- The legend fits small windows without clipping.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.9-19.zip" length="4547964" type="application/octet-stream" sparkle:edSignature="3Ocaa69Etu75rAV73unNip7sFY3j427tL4yKTjHs3J4G3LvLzzxh6QrNNZZMlYDpPQUW33dGGg0EQIoTtJMnCg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.10-20.zip" length="4561620" type="application/octet-stream" sparkle:edSignature="kWKiaQHAkijNsyPAzyDhmnUkC0/S1Ezdfvjc/E4yq06ZHNAF8qU0SD1MH9PZw6/hJdURYvcs0/tXczswKrFuAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GTybW9rscyXBvJz5UNL3HiJV1OXPge94tAn1RCXAip8rQBYBuSOICLNTCXgA4hh6YJDE2ZQuOqo5X/LUeTgQCg==
-length: 1852
+edSignature: cyhYm2l7Nm3CFQbiOtorqQhVezEz1o8WLW8dvd2Lwr0tthhPHDQafETLHT2oo9nYuZMv52gX5vyyhmpn60DdDQ==
+length: 1533
 -->
