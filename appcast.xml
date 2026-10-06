@@ -4,21 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.11</title>
-            <pubDate>Tue, 06 Oct 2026 08:48:58 -0400</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+            <title>0.3.12</title>
+            <pubDate>Tue, 06 Oct 2026 10:52:46 -0400</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.11
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.12
 
-- The trend map's Positivity layer now works for flu, using CDC FluView clinical lab results. A state without enough recent flu tests shows its HHS region instead, marked "(HHS region N)"; New York's figure excludes New York City.
-- A flu state badge's details also show how its HHS region's positivity is moving.
-- If CDC's data service is down when Airborne refreshes, the map keeps the last good scan and tries again sooner.
+- The trend map draws every state as flat land, like a weather map: no terrain or shading shows through the colors, and city labels sit on top.
+- States with too few wastewater sites now have a clearly dashed border.
+- Turning a layer off removes its colors and its legend entries, so the map and legend only show what's selected.
+- Wastewater level colors are stronger in dark mode.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.11-21.zip" length="4602301" type="application/octet-stream" sparkle:edSignature="sucTwrJUmNEvm7INfpB2CCl937EakEP/BgaWn78Jd7naEFehjcclI0QaMHUfQeVm6Na2pj+Rr59pqTczp3YPBQ=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.12-22.zip" length="4620233" type="application/octet-stream" sparkle:edSignature="ma2GweMuJ3dl104zfFtpm22kKmvMfVXJVWZnvaihq+8phEEkMkv9uDv6nvqdvJeFgGYBTeMQJoeNIUqFcLCLAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: D1nS/iXIe8F6n+90si6M/FxIy6GMm7qxQgXm+XVvaPBdx8nvI6QFyc68GM3/Ns9F47/crrfEyyTx4r+jF/5oCw==
-length: 1556
+edSignature: vX/iAOyLZ9mk0EYs9dHaZVDklwuI8LcUHIncM4pofVUfX/SABttWZEFgEmtT7/AcUgpWsMmzNRFXiU4n3qrtDQ==
+length: 1512
 -->
