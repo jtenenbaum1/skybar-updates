@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.10</title>
-            <pubDate>Mon, 05 Oct 2026 15:07:14 -0400</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+            <title>0.3.11</title>
+            <pubDate>Tue, 06 Oct 2026 08:48:58 -0400</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.10
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.11
 
-- A cleaner trend map legend, in three aligned groups: Wastewater (Low → High), Outline (rising or falling) and Markers (local area or whole state). The "How to read this map" button is still at the end.
-- States with too few wastewater sampling sites now have a light gray fill and a dashed border, and the legend says so ("too few wastewater sites").
-- The legend fits small windows without clipping.
+- The trend map's Positivity layer now works for flu, using CDC FluView clinical lab results. A state without enough recent flu tests shows its HHS region instead, marked "(HHS region N)"; New York's figure excludes New York City.
+- A flu state badge's details also show how its HHS region's positivity is moving.
+- If CDC's data service is down when Airborne refreshes, the map keeps the last good scan and tries again sooner.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.10-20.zip" length="4561620" type="application/octet-stream" sparkle:edSignature="kWKiaQHAkijNsyPAzyDhmnUkC0/S1Ezdfvjc/E4yq06ZHNAF8qU0SD1MH9PZw6/hJdURYvcs0/tXczswKrFuAw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.11-21.zip" length="4602301" type="application/octet-stream" sparkle:edSignature="sucTwrJUmNEvm7INfpB2CCl937EakEP/BgaWn78Jd7naEFehjcclI0QaMHUfQeVm6Na2pj+Rr59pqTczp3YPBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cyhYm2l7Nm3CFQbiOtorqQhVezEz1o8WLW8dvd2Lwr0tthhPHDQafETLHT2oo9nYuZMv52gX5vyyhmpn60DdDQ==
-length: 1533
+edSignature: D1nS/iXIe8F6n+90si6M/FxIy6GMm7qxQgXm+XVvaPBdx8nvI6QFyc68GM3/Ns9F47/crrfEyyTx4r+jF/5oCw==
+length: 1556
 -->
