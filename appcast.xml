@@ -4,22 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.12</title>
-            <pubDate>Tue, 06 Oct 2026 10:52:46 -0400</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+            <title>0.3.13</title>
+            <pubDate>Tue, 06 Oct 2026 20:26:06 -0400</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.12
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.13
 
-- The trend map draws every state as flat land, like a weather map: no terrain or shading shows through the colors, and city labels sit on top.
-- States with too few wastewater sites now have a clearly dashed border.
-- Turning a layer off removes its colors and its legend entries, so the map and legend only show what's selected.
-- Wastewater level colors are stronger in dark mode.
+- The trend map has a Fill picker: paint the states by wastewater level, ED visits, admissions level or test positivity, each with its own color scale and legend.
+- Pressing a state badge opens a popover with each metric's current value, with its level for wastewater and admissions (ED visits and positivity have no levels), a direction line and a nine-week sparkline.
+- Gray outlines mark the ten HHS regions CDC uses for regional data, with a Settings toggle to turn them off.
+- Markers stay put: they no longer twitch every half second, and they no longer vanish after a press, a zoom switch or a refresh.
+- When a data source fails to load, the map shows gray states for that fill instead of the last scan's colors.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.12-22.zip" length="4620233" type="application/octet-stream" sparkle:edSignature="ma2GweMuJ3dl104zfFtpm22kKmvMfVXJVWZnvaihq+8phEEkMkv9uDv6nvqdvJeFgGYBTeMQJoeNIUqFcLCLAw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.13-23.zip" length="4802168" type="application/octet-stream" sparkle:edSignature="n5JEiVkn9hoj50PuwyqLU3RhjyrCY4EGngR2qAOaPPSiaQUtc23FDEtmAPPF0QAcMhPP9ZW8bqZJg5EjRPrcDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vX/iAOyLZ9mk0EYs9dHaZVDklwuI8LcUHIncM4pofVUfX/SABttWZEFgEmtT7/AcUgpWsMmzNRFXiU4n3qrtDQ==
-length: 1512
+edSignature: FmZAB7tTijLYQsUyhFXj53zpUrJs7oyrC+Y5hI8ltPwLs9dVTXL8RZ38xjdxFYJHzDjl6vneSw0aYHmOEBIPBw==
+length: 1849
 -->
