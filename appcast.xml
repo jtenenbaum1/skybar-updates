@@ -4,23 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.13</title>
-            <pubDate>Tue, 06 Oct 2026 20:26:06 -0400</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+            <title>0.3.14</title>
+            <pubDate>Thu, 08 Oct 2026 13:11:12 -0400</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.13
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.14
 
-- The trend map has a Fill picker: paint the states by wastewater level, ED visits, admissions level or test positivity, each with its own color scale and legend.
-- Pressing a state badge opens a popover with each metric's current value, with its level for wastewater and admissions (ED visits and positivity have no levels), a direction line and a nine-week sparkline.
-- Gray outlines mark the ten HHS regions CDC uses for regional data, with a Settings toggle to turn them off.
-- Markers stay put: they no longer twitch every half second, and they no longer vanish after a press, a zoom switch or a refresh.
-- When a data source fails to load, the map shows gray states for that fill instead of the last scan's colors.
+- A new Organic / Eucalyptus app icon pairs a soft biological form with a warm terracotta particle.
+- Includes light and dark icon appearances on supported macOS versions.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.13-23.zip" length="4802168" type="application/octet-stream" sparkle:edSignature="n5JEiVkn9hoj50PuwyqLU3RhjyrCY4EGngR2qAOaPPSiaQUtc23FDEtmAPPF0QAcMhPP9ZW8bqZJg5EjRPrcDA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.14-24.zip" length="8770711" type="application/octet-stream" sparkle:edSignature="L/XwWC6G2/jYaWLsGTmN0i04Vn91rdOYls9v1zgK/Si9T3Wgnqra8slIbXAPMby9vR1CPOu5NcSGJf8tu3Y7Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: FmZAB7tTijLYQsUyhFXj53zpUrJs7oyrC+Y5hI8ltPwLs9dVTXL8RZ38xjdxFYJHzDjl6vneSw0aYHmOEBIPBw==
-length: 1849
+edSignature: IWtqsSIC12Cf26QhlXfpotHvpfaXs3Uwh8qm4HbqNmrJrgX206h8vR9N/bQWENnmXnO7lmBuzf1dUvIfmfj/DA==
+length: 1300
 -->
