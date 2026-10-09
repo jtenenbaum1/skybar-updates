@@ -4,22 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.20</title>
-            <pubDate>Fri, 09 Oct 2026 16:26:38 -0400</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
+            <title>0.3.21</title>
+            <pubDate>Fri, 09 Oct 2026 16:34:49 -0400</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.3.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.20
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.21
 
-- Local map markers stack Wastewater (WW) and ED visits in compact rounded boxes.
-- State boxes place a bold state code above a divider, with metrics arranged below in one or two columns.
-- Crowded state boxes move apart where space allows and remain in front of local markers and labels.
-- Marker sizing and local labels adapt to the taller boxes. Existing state and HHS region zoom tiers remain in place.
+- Adds more space between the map summary and the sidebar divider so both header lines have a comfortable left inset.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.20-30.zip" length="9630371" type="application/octet-stream" sparkle:edSignature="AP78a6cZ9gPhqDpdBw6CHk1UFnriZjtF8aaYBLPGnVaLTRmXLrknu7aN/iiisTEV6Iir+ii7/jZlJv4JVbI6Dw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.21-31.zip" length="9630676" type="application/octet-stream" sparkle:edSignature="Vi5mnsMzG9tQNEbZnsD1Xlz7fNcPaOx3x77V187H8+X+q6aZa1uGhSsGeMzFcYCr6DsPxvJBPPYmtLChU8t1Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iIblQkdNqXoAkuZ8SIOamnS9pqCHq413DS/yZwe0zBTkFNajdJoVjPzX40wA2XbFfVR1U86rxVvJYJwMsivuAw==
-length: 1535
+edSignature: 4RTYnpLdfZLdfkBjn94PBnxEydRFuLuJ4QI5Ap0UekI9gc6Mt1P1EdmWOEOOSoOjJO2Kc+jYqLZdBOfg+iuuBQ==
+length: 1246
 -->
