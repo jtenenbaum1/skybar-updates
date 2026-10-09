@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.16</title>
-            <pubDate>Fri, 09 Oct 2026 11:44:35 -0400</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.3.16</sparkle:shortVersionString>
+            <title>0.3.17</title>
+            <pubDate>Fri, 09 Oct 2026 12:16:05 -0400</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.16
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.17
 
-- Airborne is now a full Mac app: it opens its window at launch and stays in the Dock and Command-Tab. Closing its window keeps the menu bar available.
-- Local map pills, outlines, and fills now follow each playback week. Pills stay in place and show a muted dash when a week has no reading.
-- Past-week local popovers show that week’s readings alongside current values, and markers fade when returning to the live map.
+- Smoother Mac trend-map playback: native MapKit polygons and renderers stay resident, and week changes update their paint instead of rebuilding the SwiftUI map.
+- Weekly playback data is prepared in the background while the live map is visible.
+- Existing local markers, week fades, popovers, and map zoom controls are preserved.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.16-26.zip" length="9543222" type="application/octet-stream" sparkle:edSignature="L1qB278ADugNs0W/Bi/e8d1K1zNKh3UyphgCHQFF24BqQ1A3/DOVcwfOqJRAkbrkJm8G2xonKB8yac/zHaWLCg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.17-27.zip" length="9563651" type="application/octet-stream" sparkle:edSignature="oiTlmNQDn8Vug/C+yRwpvuYjNofyuKuHaz7T03Ye1OC8lpfI1X8kpdQN9tSXLm/6WYqWrUOu/5M1lH9ICU/5Cw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: C+N2QltfiiCZjBFprTwHeNRxj65JBP81pLHpeK6BZUnXA5S/RTkFIFS7qMnWDzkYx03y6OY/rPv1CzN5dbRfBQ==
-length: 1550
+edSignature: AP9Bc1hRm+2adCTYha4aaCW/BWTgEP3BJW+6jE4/hIaQeGHMm2Ml5q4SpLIRVTdOrEnL7k59rarcgkWfknRBAQ==
+length: 1459
 -->
