@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.18</title>
-            <pubDate>Fri, 09 Oct 2026 15:26:26 -0400</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.3.18</sparkle:shortVersionString>
+            <title>0.3.19</title>
+            <pubDate>Fri, 09 Oct 2026 16:23:37 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.18
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.19
 
-- Keep the Trend map's toolbar bubbles separated when restoring a minimized window or reopening the window.
+- The Mac map now names the selected illness and fill metric, lists active markers, and shows the displayed data week in a compact, readable toolbar header.
+- Local/National and sorting share a compact sidebar row. A larger location label below a divider under Map identifies the local reporting area or National levels.
+- The map summary uses the same levels wording on Mac and iPhone.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.18-28.zip" length="9582012" type="application/octet-stream" sparkle:edSignature="BnUHw4sEoyk4IyfP9EwIV+RbJpBZoHBAYk01AyJp+0+J2o7ZiF7miC5KeSuIRI7zrjS7+yiSDeRY2W46FPkOCA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.19-29.zip" length="9630382" type="application/octet-stream" sparkle:edSignature="qG27rufXF2meN36C7F0O6388Up3IvE8PTuyzhzX5t+bo8f5PmaEwuYgWuNlD9hdfZkCaOqJQ5ydzAwhcvsclAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: buAvGN6wzGZh8Ei23I293QpQ2P3umZ6DrjxPKkY2q26rE/T/O35GEPOsMVC2Z9yRtyoBANeAcGZ6yzx5qlEaAg==
-length: 1236
+edSignature: 2smB+G+iFnpvZ0SSoNuGYDXtbazrwDfbHe+GMyPm+gNLJQdqvC6lBhD5zg/go3aBKpn7X3xNOH4ysK16/avYCQ==
+length: 1515
 -->
