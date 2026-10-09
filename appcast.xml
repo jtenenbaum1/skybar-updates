@@ -4,21 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.19</title>
-            <pubDate>Fri, 09 Oct 2026 16:23:37 -0400</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
+            <title>0.3.20</title>
+            <pubDate>Fri, 09 Oct 2026 16:26:38 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.19
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.20
 
-- The Mac map now names the selected illness and fill metric, lists active markers, and shows the displayed data week in a compact, readable toolbar header.
-- Local/National and sorting share a compact sidebar row. A larger location label below a divider under Map identifies the local reporting area or National levels.
-- The map summary uses the same levels wording on Mac and iPhone.
+- Local map markers stack Wastewater (WW) and ED visits in compact rounded boxes.
+- State boxes place a bold state code above a divider, with metrics arranged below in one or two columns.
+- Crowded state boxes move apart where space allows and remain in front of local markers and labels.
+- Marker sizing and local labels adapt to the taller boxes. Existing state and HHS region zoom tiers remain in place.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.19-29.zip" length="9630382" type="application/octet-stream" sparkle:edSignature="qG27rufXF2meN36C7F0O6388Up3IvE8PTuyzhzX5t+bo8f5PmaEwuYgWuNlD9hdfZkCaOqJQ5ydzAwhcvsclAA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.20-30.zip" length="9630371" type="application/octet-stream" sparkle:edSignature="AP78a6cZ9gPhqDpdBw6CHk1UFnriZjtF8aaYBLPGnVaLTRmXLrknu7aN/iiisTEV6Iir+ii7/jZlJv4JVbI6Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2smB+G+iFnpvZ0SSoNuGYDXtbazrwDfbHe+GMyPm+gNLJQdqvC6lBhD5zg/go3aBKpn7X3xNOH4ysK16/avYCQ==
-length: 1515
+edSignature: iIblQkdNqXoAkuZ8SIOamnS9pqCHq413DS/yZwe0zBTkFNajdJoVjPzX40wA2XbFfVR1U86rxVvJYJwMsivuAw==
+length: 1535
 -->
