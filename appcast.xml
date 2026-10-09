@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.17</title>
-            <pubDate>Fri, 09 Oct 2026 12:16:05 -0400</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
+            <title>0.3.18</title>
+            <pubDate>Fri, 09 Oct 2026 15:26:26 -0400</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.3.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.17
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.18
 
-- Smoother Mac trend-map playback: native MapKit polygons and renderers stay resident, and week changes update their paint instead of rebuilding the SwiftUI map.
-- Weekly playback data is prepared in the background while the live map is visible.
-- Existing local markers, week fades, popovers, and map zoom controls are preserved.
+- Keep the Trend map's toolbar bubbles separated when restoring a minimized window or reopening the window.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.17-27.zip" length="9563651" type="application/octet-stream" sparkle:edSignature="oiTlmNQDn8Vug/C+yRwpvuYjNofyuKuHaz7T03Ye1OC8lpfI1X8kpdQN9tSXLm/6WYqWrUOu/5M1lH9ICU/5Cw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.18-28.zip" length="9582012" type="application/octet-stream" sparkle:edSignature="BnUHw4sEoyk4IyfP9EwIV+RbJpBZoHBAYk01AyJp+0+J2o7ZiF7miC5KeSuIRI7zrjS7+yiSDeRY2W46FPkOCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: AP9Bc1hRm+2adCTYha4aaCW/BWTgEP3BJW+6jE4/hIaQeGHMm2Ml5q4SpLIRVTdOrEnL7k59rarcgkWfknRBAQ==
-length: 1459
+edSignature: buAvGN6wzGZh8Ei23I293QpQ2P3umZ6DrjxPKkY2q26rE/T/O35GEPOsMVC2Z9yRtyoBANeAcGZ6yzx5qlEaAg==
+length: 1236
 -->
