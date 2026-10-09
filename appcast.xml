@@ -4,20 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.22</title>
-            <pubDate>Fri, 09 Oct 2026 16:48:22 -0400</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>0.3.22</sparkle:shortVersionString>
+            <title>0.3.23</title>
+            <pubDate>Fri, 09 Oct 2026 17:19:10 -0400</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.3.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.22
-
-- HHS region boundaries are clearer at national zoom, with contrasting light lines and dark edges above state trend outlines.
-- Closer zooms retain the subtle gray region lines, and the legend matches the border style shown on the map.
+            <description sparkle:format="markdown"><![CDATA[Desktop illness maps now switch to HHS region summaries based on the full visible map extent. Wider coast-wide views show region summaries instead of crowded state boxes, and zooming back in restores state detail.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.22-32.zip" length="9632208" type="application/octet-stream" sparkle:edSignature="U0Z8u9diB7OHAeLmHN68TOESFIZpRfgIVyeOoeJljLCPLF9OXWEasYy3U4W2sGqAFXN6aaBpf681j7N5z/3SDg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.23-33.zip" length="9631990" type="application/octet-stream" sparkle:edSignature="2ACYkuEe3jCpl3EaWrr6ALCc6JRyvGZO8O6XuNAy0mcFbk6HJOI762SNez4osDVkiI6XDCtX9GZ/rwf/kJftDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xtuKxReB2vrDuScxFXBg3GXVhIqfc8PWDZsfdci9ih9hnAfyozcOIOfompu2NXBDgplU4LodKzNaDfsYvi5XBg==
-length: 1364
+edSignature: bXlZ/sXIq7nCcclE5JOAbqbYLumN01e1GZX1vDQpjuUB6RxAeRSRJbD8UXsyS6IZLYGDjxHazloE2ZQDaKVXDQ==
+length: 1323
 -->
