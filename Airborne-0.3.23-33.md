@@ -1,0 +1,1 @@
+Desktop illness maps now switch to HHS region summaries based on the full visible map extent. Wider coast-wide views show region summaries instead of crowded state boxes, and zooming back in restores state detail.
