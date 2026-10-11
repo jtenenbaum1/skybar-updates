@@ -4,24 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.24</title>
-            <pubDate>Sun, 11 Oct 2026 17:26:37 -0400</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.3.24</sparkle:shortVersionString>
+            <title>0.3.25</title>
+            <pubDate>Sun, 11 Oct 2026 18:36:34 -0400</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.3.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.24
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.25
 
-- Flu test positivity now comes directly from CDC FluView, with a freshness-checked Delphi fallback to preserve current reporting coverage.
-- State wastewater levels and history use CDC's published state values and categories. Local readings use the median measured wastewater value with clearer attribution.
-- Illness headlines, reporting dates, and history agree on the current observation week. Expired cached observations no longer drive current headlines.
-- Emergency-visit direction preserves CDC's published labels and unavailable readings.
+- Adds a native weekly Briefing on macOS and iOS with watched-illness evidence, source, reporting date, geography, freshness, and links into illness details and the map. Each measure keeps its own evidence; the briefing does not calculate a combined personal-risk score.
+- Adds Simple and Analyst modes to the native illness map. Simple starts with one measure and a clear legend. Analyst retains independent fill and marker signals, geography choices, saved combinations, playback, and selected-place evidence. Switching modes preserves the other mode's settings.
+- Keeps missing or unsupported evidence unavailable rather than implying zero or no change. HHS-region marker evidence remains available where supported; generalized HHS-region fills are not supported.
 
-The proposed briefing and map redesign remain separate from this update.
+- Improves small-percentage precision and historical FluView evidence dates. Current CDC data coverage is preserved.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.24-34.zip" length="9775427" type="application/octet-stream" sparkle:edSignature="L8Iq1cyMqr5jjPMUmcC/VT03rEuwx4dEYG3XdoWcZzq6cJr8HEvDcVoY/QtgVRIIXU0NNUR+0V0ObpoSBasADA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.25-35.zip" length="9979336" type="application/octet-stream" sparkle:edSignature="Ne5luG6P1hiFkor2ScENCbl1WY7igvWxnyHuBYYY/UY06NaskKSPAOfnrFZ7k/HBPZT3eBrLtGSgN6ve6OkABw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qlm272tKK56heJ/ZG5pCvByi42zxxauZ9x1Q4/qxKJTUbkN2vQ4xNiZGxWignssY/ZZnhAIItqyBiI4smvuHBA==
-length: 1750
+edSignature: KYRJOWPXDdiFIIj0/iqjaEgOF/2wRPl7MQ0cl2gIwBFiKsVeiNxGB4Zw9F/Ni6Sj09NOaUrdNWFXUkW+bP1SAw==
+length: 2013
 -->
