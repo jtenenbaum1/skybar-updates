@@ -4,17 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.23</title>
-            <pubDate>Fri, 09 Oct 2026 17:19:10 -0400</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>0.3.23</sparkle:shortVersionString>
+            <title>0.3.24</title>
+            <pubDate>Sun, 11 Oct 2026 17:26:37 -0400</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.3.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Desktop illness maps now switch to HHS region summaries based on the full visible map extent. Wider coast-wide views show region summaries instead of crowded state boxes, and zooming back in restores state detail.
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.24
+
+- Flu test positivity now comes directly from CDC FluView, with a freshness-checked Delphi fallback to preserve current reporting coverage.
+- State wastewater levels and history use CDC's published state values and categories. Local readings use the median measured wastewater value with clearer attribution.
+- Illness headlines, reporting dates, and history agree on the current observation week. Expired cached observations no longer drive current headlines.
+- Emergency-visit direction preserves CDC's published labels and unavailable readings.
+
+The proposed briefing and map redesign remain separate from this update.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.23-33.zip" length="9631990" type="application/octet-stream" sparkle:edSignature="2ACYkuEe3jCpl3EaWrr6ALCc6JRyvGZO8O6XuNAy0mcFbk6HJOI762SNez4osDVkiI6XDCtX9GZ/rwf/kJftDg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.24-34.zip" length="9775427" type="application/octet-stream" sparkle:edSignature="L8Iq1cyMqr5jjPMUmcC/VT03rEuwx4dEYG3XdoWcZzq6cJr8HEvDcVoY/QtgVRIIXU0NNUR+0V0ObpoSBasADA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bXlZ/sXIq7nCcclE5JOAbqbYLumN01e1GZX1vDQpjuUB6RxAeRSRJbD8UXsyS6IZLYGDjxHazloE2ZQDaKVXDQ==
-length: 1323
+edSignature: qlm272tKK56heJ/ZG5pCvByi42zxxauZ9x1Q4/qxKJTUbkN2vQ4xNiZGxWignssY/ZZnhAIItqyBiI4smvuHBA==
+length: 1750
 -->
