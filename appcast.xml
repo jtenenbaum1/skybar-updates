@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.28</title>
-            <pubDate>Sun, 11 Oct 2026 22:43:44 -0400</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>0.3.28</sparkle:shortVersionString>
+            <title>0.3.29</title>
+            <pubDate>Mon, 12 Oct 2026 14:23:55 -0400</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.3.29</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.28
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.29
 
-- Removes the map camera presets and Near me range settings. Pan, scroll and pinch to explore the map; a location button recenters it.
-- Adds native +/− zoom controls on Mac, keeping the current map center as you zoom.
-- Keeps Simple area colors and full tap/click details, and Analyst's configurable fills, signal markers and comparisons.
+- Adds laboratory test positivity to the Briefing's flu, COVID-19 and RSV cards, with its own value, direction, week, place and history chart.
+- Flu positivity comes from CDC FluView clinical laboratories (via Delphi Epidata); COVID-19 and RSV come from CDC NREVSS. When a state has no usable lab data, the card uses its HHS region.
+- A significant rise or fall in test positivity can now lead the Briefing headline.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.28-38.zip" length="10038267" type="application/octet-stream" sparkle:edSignature="T2oxPCsS3qfOjSHdJcKmaOin/2QKC9xrUiemLUfwn0tMcw6h/O16HyRYmtjWS34S1pcTyHcKwg+1X2gJ/dc0CA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.29-39.zip" length="10094863" type="application/octet-stream" sparkle:edSignature="DGlCKAd+g2Wo9iNh9ZxVYulVbNHeXHQzqd0DKu6v4RGSryJDvbYdv+pS2vcu0kyTP3rIJx0PJPHgIZRf4AS4Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aPPF6v0dVTaBhaI9h1CnEMWC6nlISQ2OoBb53dLFhS1Xhl52GseIGG6QVCOyfKX73mY8aENgOezRsBa+8AGZCw==
-length: 1471
+edSignature: +HpIDvHU4anoO/fBnJNjeYYeuXN52EWEmLhyE5pVnUKQlM5le4i60Dfk8N7t9uLHgTqllaVhMtfjPmXe0b5ZCQ==
+length: 1546
 -->
