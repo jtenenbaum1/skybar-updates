@@ -4,23 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.25</title>
-            <pubDate>Sun, 11 Oct 2026 18:36:34 -0400</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.3.25</sparkle:shortVersionString>
+            <title>0.3.26</title>
+            <pubDate>Sun, 11 Oct 2026 20:21:07 -0400</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.3.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.25
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.26
 
-- Adds a native weekly Briefing on macOS and iOS with watched-illness evidence, source, reporting date, geography, freshness, and links into illness details and the map. Each measure keeps its own evidence; the briefing does not calculate a combined personal-risk score.
-- Adds Simple and Analyst modes to the native illness map. Simple starts with one measure and a clear legend. Analyst retains independent fill and marker signals, geography choices, saved combinations, playback, and selected-place evidence. Switching modes preserves the other mode's settings.
-- Keeps missing or unsupported evidence unavailable rather than implying zero or no change. HHS-region marker evidence remains available where supported; generalized HHS-region fills are not supported.
-
-- Improves small-percentage precision and historical FluView evidence dates. Current CDC data coverage is preserved.
+- Consolidates map controls so illness, Simple/Analyst mode, and camera view each have one place. Simple uses one Measure menu; Analyst uses a Layers inspector on macOS and a sheet on iOS.
+- Makes Simple a map of area colors with details on click or tap. Analyst retains the configurable signal markers and saved comparisons.
+- Keeps camera framing separate from reporting geography, with Near me range under View. Uses native controls and Liquid Glass on supported systems.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.25-35.zip" length="9979336" type="application/octet-stream" sparkle:edSignature="Ne5luG6P1hiFkor2ScENCbl1WY7igvWxnyHuBYYY/UY06NaskKSPAOfnrFZ7k/HBPZT3eBrLtGSgN6ve6OkABw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.26-36.zip" length="10021564" type="application/octet-stream" sparkle:edSignature="adc5tDRI5H1BdBubFFet2amEAVHdX43KqZwL1hGUa2siMJKwmvQ1PBcB2yx0jcuzJYFzUUDIAKnyD3exOFnvBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: KYRJOWPXDdiFIIj0/iqjaEgOF/2wRPl7MQ0cl2gIwBFiKsVeiNxGB4Zw9F/Ni6Sj09NOaUrdNWFXUkW+bP1SAw==
-length: 2013
+edSignature: XVSNVkeK1PKb72CQapPVZZDzbJnvg4YMWHD/iZu/fQAJav3StEgSfgaNky+GHSEy4FZrWdy0JciioNCrbfhbBQ==
+length: 1604
 -->
