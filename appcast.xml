@@ -4,19 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.32</title>
-            <pubDate>Mon, 12 Oct 2026 17:38:59 -0400</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>0.3.32</sparkle:shortVersionString>
+            <title>0.3.33</title>
+            <pubDate>Mon, 12 Oct 2026 18:31:09 -0400</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.3.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.32
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.33
 
-- Fixes the Mac map window cutting off the top controls, legend and playback bar on smaller screens in Analyst. The map summary under the controls now wraps to at most two lines; hover it for the full text.
+- The map shows local areas by default in Simple and Analyst. Earlier choices are switched to local areas once; after that your choice stays.
+- Choosing a measure that only has state readings (positivity or admissions) no longer turns local areas off for good: they return when you switch back to wastewater or ED visits.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.32-42.zip" length="10435266" type="application/octet-stream" sparkle:edSignature="YwFmMYn01A003eV93tdiuGcNu/IwnzKpg0yQVO13bxiUhQtwanlzQxysbHHGPnaPaqkdpaYxao1cMkjHAjYwAA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.33-43.zip" length="10432800" type="application/octet-stream" sparkle:edSignature="1+gJjdFaRgveGXVwUyPExpYSW3lOmH+ZZOHyPS6TRL3k3R9nrQS+yB5pwXKbzNBiql+DOs+QZ8QTIq3h/WxzCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: e3zbFomTtHqNpEc7PYIOxJAL7tlwkWlumZVHjaBLlRsmuaS+69gdHhCUq+fHDIoCrmsptU9BSN63xRKIV18pDA==
-length: 1336
+edSignature: mPTwdfvOe18phSX14pct7XabdJZLnRG5YbU2gMRLhHeUdoa+Inxoi/dH6HGK73fbJWVAMH+Tdg9TSP+P3ZMqCQ==
+length: 1451
 -->
