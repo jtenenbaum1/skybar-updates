@@ -4,20 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.33</title>
-            <pubDate>Mon, 12 Oct 2026 18:31:09 -0400</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>0.3.33</sparkle:shortVersionString>
+            <title>0.3.34</title>
+            <pubDate>Mon, 12 Oct 2026 19:10:19 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.3.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.33
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.34
 
-- The map shows local areas by default in Simple and Analyst. Earlier choices are switched to local areas once; after that your choice stays.
-- Choosing a measure that only has state readings (positivity or admissions) no longer turns local areas off for good: they return when you switch back to wastewater or ED visits.
+- The Briefing now opens with short stories: the biggest change gets a headline and a few sentences on what moved from last week, how the illness's other local signals are doing, and how the country compares. Up to two more rising illnesses get smaller stories.
+- Each story links to a new page with that illness's local charts — ED visits, test positivity, hospital admissions and wastewater — each with the national figure alongside.
+- Regional lab data now reads "your region" in headlines, with the HHS region named in the story.
+- On iPhone, illness pages show their title once, in the navigation bar.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.33-43.zip" length="10432800" type="application/octet-stream" sparkle:edSignature="1+gJjdFaRgveGXVwUyPExpYSW3lOmH+ZZOHyPS6TRL3k3R9nrQS+yB5pwXKbzNBiql+DOs+QZ8QTIq3h/WxzCQ=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.34-44.zip" length="10494233" type="application/octet-stream" sparkle:edSignature="TuTKOa7S3NhnARdhUf/aiXqXulORQfQcRlTASp1zNeABH0kbP3zPhKKBkJQ+O8V5Xj+tuQDBgJssLXTW1p39Cg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mPTwdfvOe18phSX14pct7XabdJZLnRG5YbU2gMRLhHeUdoa+Inxoi/dH6HGK73fbJWVAMH+Tdg9TSP+P3ZMqCQ==
-length: 1451
+edSignature: OnNFtxiO3cTwA0+e2Cgvolfem6D9PF0Kz2AJIQoe+wA5VCpBU4J5pDMsnTQCESW52NgKk6MyK1baiZJaq+uWAQ==
+length: 1740
 -->
