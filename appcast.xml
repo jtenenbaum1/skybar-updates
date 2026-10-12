@@ -4,23 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.31</title>
-            <pubDate>Mon, 12 Oct 2026 16:26:56 -0400</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.3.31</sparkle:shortVersionString>
+            <title>0.3.32</title>
+            <pubDate>Mon, 12 Oct 2026 17:38:59 -0400</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.3.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.31
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.32
 
-- Analyst can now show two maps at once. Choose Split in the map header to compare two illnesses or two measures side by side (stacked on iPhone), each with its own area color, marker signals and legend.
-- Both maps share one weekly timeline. A map with no report for the selected week says "No report" instead of showing an earlier week's value.
-- The two cameras move together by default; turn off Linked cameras to move them separately. Recenter, Map controls and Show a state sit in one group on the right edge.
-- Map controls open on the map you choose, with a Map 1 / Map 2 switch and ready-made comparisons. Single-map Analyst and Simple work as before.
-- Fixes a blank details sheet when tapping an HHS region badge on iPhone.
+- Fixes the Mac map window cutting off the top controls, legend and playback bar on smaller screens in Analyst. The map summary under the controls now wraps to at most two lines; hover it for the full text.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.31-41.zip" length="10434293" type="application/octet-stream" sparkle:edSignature="GQREwZP22RHbg6lweVR6SxA5uMn/xJxA1Hz0NSiNdEujDTLPkKDVMI03n2JZO6AY1NJyOM/Uv1HngxP4HypOBA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.32-42.zip" length="10435266" type="application/octet-stream" sparkle:edSignature="YwFmMYn01A003eV93tdiuGcNu/IwnzKpg0yQVO13bxiUhQtwanlzQxysbHHGPnaPaqkdpaYxao1cMkjHAjYwAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jZH3N+whB4S+99oQy0tWPiA7hH66hAWWlwIozzEAce67KJnRoVjQC+kKnQ7G/XoSGzWOUJ7xMc5XmXNwU1d3Cw==
-length: 1864
+edSignature: e3zbFomTtHqNpEc7PYIOxJAL7tlwkWlumZVHjaBLlRsmuaS+69gdHhCUq+fHDIoCrmsptU9BSN63xRKIV18pDA==
+length: 1336
 -->
