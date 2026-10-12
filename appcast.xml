@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.26</title>
-            <pubDate>Sun, 11 Oct 2026 20:21:07 -0400</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>0.3.26</sparkle:shortVersionString>
+            <title>0.3.27</title>
+            <pubDate>Sun, 11 Oct 2026 21:40:01 -0400</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.3.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.26
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.27
 
-- Consolidates map controls so illness, Simple/Analyst mode, and camera view each have one place. Simple uses one Measure menu; Analyst uses a Layers inspector on macOS and a sheet on iOS.
-- Makes Simple a map of area colors with details on click or tap. Analyst retains the configurable signal markers and saved comparisons.
-- Keeps camera framing separate from reporting geography, with Near me range under View. Uses native controls and Liquid Glass on supported systems.
+- Moves map settings into one native Map controls panel. It starts closed on Mac and opens on demand; iPhone uses a scrolling sheet. Simple/Analyst and the current map summary stay visible.
+- Improves readability with system backgrounds, direct SwiftUI pickers, and clearer camera selection. Renames My area to Regional.
+- Restores all available trends and graphs in Simple area details, with individual reporting dates and sources. Simple keeps area colors and tap/click details; Analyst keeps configurable signal markers and comparisons.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.26-36.zip" length="10021564" type="application/octet-stream" sparkle:edSignature="adc5tDRI5H1BdBubFFet2amEAVHdX43KqZwL1hGUa2siMJKwmvQ1PBcB2yx0jcuzJYFzUUDIAKnyD3exOFnvBg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.27-37.zip" length="10058169" type="application/octet-stream" sparkle:edSignature="0x41ra6iCjS02plupLDElRZFflk8c59s3NbL/w2E4VbqnHBJqcwlwp5yzgdVhmtsRt73ZPcmZBhRn02XGeQqBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XVSNVkeK1PKb72CQapPVZZDzbJnvg4YMWHD/iZu/fQAJav3StEgSfgaNky+GHSEy4FZrWdy0JciioNCrbfhbBQ==
-length: 1604
+edSignature: dNnsq4cZe937vq8inE8z+TYYRy5avGNjyg3CZE+SDFvm72jOqrk7xAn4ULMzAuVGFUS9PGwjjQ6LDEtND7uFDA==
+length: 1669
 -->
