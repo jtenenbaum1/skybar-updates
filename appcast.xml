@@ -4,22 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.30</title>
-            <pubDate>Mon, 12 Oct 2026 15:51:57 -0400</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>0.3.30</sparkle:shortVersionString>
+            <title>0.3.31</title>
+            <pubDate>Mon, 12 Oct 2026 16:26:56 -0400</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.3.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.30
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.31
 
-- The Briefing headline now names the largest significant change across your watched illnesses, not just the first one in your list, and a short "Also rising" line names up to two more.
-- Test positivity counts as significant after two weekly rises (or falls) of at least 0.15 points in a row, or a 15% and 0.15-point shift in the two-week average.
-- Positivity arrows on the map, Briefing cards and illness pages now show any week-over-week change; small changes read to two decimals.
-- Removes the "Each illness below retains its own measure and reporting week" line. The map reloads its data once after updating.
+- Analyst can now show two maps at once. Choose Split in the map header to compare two illnesses or two measures side by side (stacked on iPhone), each with its own area color, marker signals and legend.
+- Both maps share one weekly timeline. A map with no report for the selected week says "No report" instead of showing an earlier week's value.
+- The two cameras move together by default; turn off Linked cameras to move them separately. Recenter, Map controls and Show a state sit in one group on the right edge.
+- Map controls open on the map you choose, with a Map 1 / Map 2 switch and ready-made comparisons. Single-map Analyst and Simple work as before.
+- Fixes a blank details sheet when tapping an HHS region badge on iPhone.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.30-40.zip" length="10133569" type="application/octet-stream" sparkle:edSignature="Gxb0JiayfT65o3xqXtSdrUX6VLZz0a+dRiCUIxiEEsH9tnTThQ7X6OopHuscidumnrvPw+w0rqHArk7tK1QKAw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.31-41.zip" length="10434293" type="application/octet-stream" sparkle:edSignature="GQREwZP22RHbg6lweVR6SxA5uMn/xJxA1Hz0NSiNdEujDTLPkKDVMI03n2JZO6AY1NJyOM/Uv1HngxP4HypOBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ni6C0YIE3+H9Ia8309hvdXJ+cDLwFSXKul+nQlo5ntFYxYwc2HhVUUpBPemOhM/A4SA7kxvq+qFToByohdnJBw==
-length: 1745
+edSignature: jZH3N+whB4S+99oQy0tWPiA7hH66hAWWlwIozzEAce67KJnRoVjQC+kKnQ7G/XoSGzWOUJ7xMc5XmXNwU1d3Cw==
+length: 1864
 -->
