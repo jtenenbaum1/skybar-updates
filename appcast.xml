@@ -4,21 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.29</title>
-            <pubDate>Mon, 12 Oct 2026 14:23:55 -0400</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.3.29</sparkle:shortVersionString>
+            <title>0.3.30</title>
+            <pubDate>Mon, 12 Oct 2026 15:51:57 -0400</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.3.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.29
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.30
 
-- Adds laboratory test positivity to the Briefing's flu, COVID-19 and RSV cards, with its own value, direction, week, place and history chart.
-- Flu positivity comes from CDC FluView clinical laboratories (via Delphi Epidata); COVID-19 and RSV come from CDC NREVSS. When a state has no usable lab data, the card uses its HHS region.
-- A significant rise or fall in test positivity can now lead the Briefing headline.
+- The Briefing headline now names the largest significant change across your watched illnesses, not just the first one in your list, and a short "Also rising" line names up to two more.
+- Test positivity counts as significant after two weekly rises (or falls) of at least 0.15 points in a row, or a 15% and 0.15-point shift in the two-week average.
+- Positivity arrows on the map, Briefing cards and illness pages now show any week-over-week change; small changes read to two decimals.
+- Removes the "Each illness below retains its own measure and reporting week" line. The map reloads its data once after updating.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.29-39.zip" length="10094863" type="application/octet-stream" sparkle:edSignature="DGlCKAd+g2Wo9iNh9ZxVYulVbNHeXHQzqd0DKu6v4RGSryJDvbYdv+pS2vcu0kyTP3rIJx0PJPHgIZRf4AS4Bw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.30-40.zip" length="10133569" type="application/octet-stream" sparkle:edSignature="Gxb0JiayfT65o3xqXtSdrUX6VLZz0a+dRiCUIxiEEsH9tnTThQ7X6OopHuscidumnrvPw+w0rqHArk7tK1QKAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +HpIDvHU4anoO/fBnJNjeYYeuXN52EWEmLhyE5pVnUKQlM5le4i60Dfk8N7t9uLHgTqllaVhMtfjPmXe0b5ZCQ==
-length: 1546
+edSignature: Ni6C0YIE3+H9Ia8309hvdXJ+cDLwFSXKul+nQlo5ntFYxYwc2HhVUUpBPemOhM/A4SA7kxvq+qFToByohdnJBw==
+length: 1745
 -->
