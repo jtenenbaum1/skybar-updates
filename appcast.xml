@@ -4,22 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Airborne</title>
         <item>
-            <title>0.3.34</title>
-            <pubDate>Mon, 12 Oct 2026 19:10:19 -0400</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.3.34</sparkle:shortVersionString>
+            <title>0.3.35</title>
+            <pubDate>Mon, 12 Oct 2026 20:25:06 -0400</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.3.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.34
+            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.35
 
-- The Briefing now opens with short stories: the biggest change gets a headline and a few sentences on what moved from last week, how the illness's other local signals are doing, and how the country compares. Up to two more rising illnesses get smaller stories.
-- Each story links to a new page with that illness's local charts — ED visits, test positivity, hospital admissions and wastewater — each with the national figure alongside.
-- Regional lab data now reads "your region" in headlines, with the HHS region named in the story.
-- On iPhone, illness pages show their title once, in the navigation bar.
+- The weekly timeline is now a row of week segments: click a week to jump to it, or press play. On the Mac, arrow keys step a week at a time when the timeline has focus.
+- In Analyst on the Mac, a split-view button in the toolbar switches between one map and two; Linked cameras stays in the header while split.
+- The iPhone map is redesigned: the map fills the screen, with Simple | Analyst at the top left, the illness and measure in a centred chip above its colour scale, search at the top right, split view and your location on the right edge, and the week timeline at the bottom.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.34-44.zip" length="10494233" type="application/octet-stream" sparkle:edSignature="TuTKOa7S3NhnARdhUf/aiXqXulORQfQcRlTASp1zNeABH0kbP3zPhKKBkJQ+O8V5Xj+tuQDBgJssLXTW1p39Cg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.35-45.zip" length="10511017" type="application/octet-stream" sparkle:edSignature="ZquwumA9bagVds1Yyqw6nKhG9uGyORcCoimIFsniS0Hi41XgxO1osQCp00uVn52SlhT3XxdY/oHUS+Wj6EP3DA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OnNFtxiO3cTwA0+e2Cgvolfem6D9PF0Kz2AJIQoe+wA5VCpBU4J5pDMsnTQCESW52NgKk6MyK1baiZJaq+uWAQ==
-length: 1740
+edSignature: gYfurVtTx6Q1pGXR5mxa/IOUlppkoKMGn9kGtLlwUUPgOvaCrs5o76mQLGr6cbmknBjStoolYxUgjtBg/+2NDg==
+length: 1714
 -->
