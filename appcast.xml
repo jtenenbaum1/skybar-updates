@@ -2,23 +2,23 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Airborne</title>
+        <title>GoingAround</title>
         <item>
-            <title>0.3.36</title>
-            <pubDate>Mon, 12 Oct 2026 20:42:27 -0400</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>0.3.36</sparkle:shortVersionString>
+            <title>0.3.37</title>
+            <pubDate>Tue, 13 Oct 2026 10:19:36 -0400</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.3.37</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Airborne 0.3.36
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.37
 
-- Briefing stories are now bulleted, one bullet per measure: the lead number and last week, each of the illness's other local signals, and the national comparison.
-- Tap a story's headline or any bullet to open that illness's charts, scrolled to the matching chart. "See … data in your area" still opens the charts from the top.
-- On Mac, story headlines and bullets show a link pointer on hover.
+- Airborne is now called **Going Around**. Your settings, saved place and data carry over, and updates keep arriving as before.
+- The app's file in your Applications folder keeps its old name, Airborne.app. You can rename it to "Going Around.app" while the app is quit if you like; don't drag in a second copy.
+- "Combined signals" and "Local estimate" replace labels that used the app's old name.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/Airborne-0.3.36-46.zip" length="10531564" type="application/octet-stream" sparkle:edSignature="f3pIAxmT9YjWPBReZf+OB/KRDRvgmodvOacxSMFbZpsdYDsSEyGVb76Ds501emVL53V3kQjJ1VTvPz2FmcT3Ag=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.37-47.zip" length="10536707" type="application/octet-stream" sparkle:edSignature="q4Kd3WJ3xVKlm21pVUiscCfcJUFCsENXmOa5/SG9eentX3wIF3PTSEfhK/9ykoJx+xb+HlZERBrNrdEkAkcSAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: SlpPihpeGQ176C4QepNzPwCqPt8F8Ddwe+54tavOoHchTZB6iqTfnK6mRBaP0QkxyK87sNg8OSR/Pv9K1ej+CQ==
-length: 1528
+edSignature: V2g5Dqym2BOMceiYzUPgAZnruxgI5eavIoaXIe7DCZo9R6b1zWecsWakXEm5Wl0pth0pj9oFKEuLy/QLi8OMBQ==
+length: 1537
 -->
