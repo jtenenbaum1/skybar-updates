@@ -4,26 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.38</title>
-            <pubDate>Tue, 13 Oct 2026 16:31:51 -0400</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>0.3.38</sparkle:shortVersionString>
+            <title>0.3.39</title>
+            <pubDate>Tue, 13 Oct 2026 21:10:34 -0400</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.38
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.39
 
-The map now uses distinct color bands for ED visits, test positivity, and hospital admissions, making regional differences easier to see on Mac and iPhone.
-
-- ED visits use cream, gold, peach, rust, and burgundy for the percentage ranges below 0.5%, 0.5–1%, 1–2%, 2–4%, and 4% or more.
-- Positivity uses aqua, turquoise, blue, cobalt, and indigo for the percentage ranges below 2%, 2–5%, 5–10%, 10–20%, and 20% or more.
-- Admissions keeps its existing Very low through Very high categories, with distinct lavender, periwinkle, violet, magenta, and plum colors.
-- Map legends show each band and its range or category. Historical playback uses the band for the displayed reporting week.
-
-Percentage bands are fixed display ranges, not clinical severity categories. Selecting an area still shows the exact reported values and source evidence. Wastewater colors and missing-report indicators retain their existing meanings.
+- Briefing stories now pair clear area, regional or national headlines with measured-history graphs and native signal icons.
+- The graphs use each metric's map palette and reporting boundaries, with readable light/dark appearance and support for larger text.
+- All accompanying ED, hospital admission, wastewater and positive-test evidence, national comparisons and chart links remain available.
+- Includes the latest map-control polish: clearer measure selection, a compact vertical Simple/Analyst selector, cleaner map identifiers and playback controls.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.38-48.zip" length="10589697" type="application/octet-stream" sparkle:edSignature="Q1ZnIQZ0COnr2q31/nSNnz3PJEma2xvjmxGp4GG99SFMzy289fMWyxMqa57RLiGR+2AJLcRLvWrqelWfUzG5Ag=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.39-49.zip" length="10643554" type="application/octet-stream" sparkle:edSignature="ZDsKepakfF0jrKy5VLIwTaSuGwpyvKbSk6Em8HR2E6ew+BhularJ6tAYcGVAQ05+mbSaYup3K/Y+pfrBer76Dg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TPlWhYfZF3n/bm1XGPbl7tkPOwsiJGbsui3q1OqF9SPl2oig4r2sAII71Uo8c8XblseBpdMo8QUIIQxK+x2DDQ==
-length: 2071
+edSignature: gPnvQZu7wSkiFkoKHgBsIiH3YZXgYrStUT4uT1raRrJ4SGD+wJ539B6TPphr8sofj0ES0Z61F5KtcoeSG65rDw==
+length: 1695
 -->
