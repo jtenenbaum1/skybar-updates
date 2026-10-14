@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.40</title>
-            <pubDate>Tue, 13 Oct 2026 21:56:26 -0400</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>0.3.40</sparkle:shortVersionString>
+            <title>0.3.41</title>
+            <pubDate>Wed, 14 Oct 2026 12:53:24 -0400</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.3.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.40
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.41
 
-- Mac map legends start as a compact strip of colors. Expand the strip to read the labeled bands, reporting week and full explanation; collapse it again to leave more room for the map.
-- Measure selection in Mac map controls uses a normal-sized native picker. One click opens Wastewater, ED visits, Admissions and Positivity directly.
+- Briefing story charts now scale to recent readings, making changes easier to see while retaining a zero baseline and the map's accurate color thresholds.
+- Watched cards show each history graph once: when the same reading is already charted in the story above, the card retains its value, direction, reporting week, sources and links without repeating the graph.
 
-The complete legend and source evidence remain available. Existing iPhone controls retain their touch-sized layout.
+These improvements are shared by Mac and iPhone.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.40-50.zip" length="10633262" type="application/octet-stream" sparkle:edSignature="foIFy5crgw7BYoD8KW7gmuWfdYOMQ7aC5eFpYviQWSKR+I1X9UoeEipBJ2AcVuFXSBjv7jo3XUIEPKBvcjBNDA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.41-51.zip" length="10635878" type="application/octet-stream" sparkle:edSignature="d5ep8ETqAwfyI80h+O4WlqXN+4ktlmCnlM3INocsHVSkw4edzTjyAZVKUZb/gqjXDbkY0ACNwEW8fva3UEtFAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9ePmtSzwF7lB38v67A4IHLAC18EzxE1ZgyoE5QTjCMjSHvfCI4UiAdW25t21GyQt4EfTd17luVOVNEfnxIvkCA==
-length: 1591
+edSignature: 1T/gScsFpOPArlBQ+SVZM3uYv2yXxFv3kzW5xrhAHAovQbCPCUOwvO8u8sj9wa2MphJaHngVyJNFiKRb0e6TBQ==
+length: 1554
 -->
