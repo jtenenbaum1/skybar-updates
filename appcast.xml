@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.41</title>
-            <pubDate>Wed, 14 Oct 2026 12:53:24 -0400</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>0.3.41</sparkle:shortVersionString>
+            <title>0.3.42</title>
+            <pubDate>Thu, 15 Oct 2026 09:10:01 -0400</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>0.3.42</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.41
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.42
 
-- Briefing story charts now scale to recent readings, making changes easier to see while retaining a zero baseline and the map's accurate color thresholds.
-- Watched cards show each history graph once: when the same reading is already charted in the story above, the card retains its value, direction, reporting week, sources and links without repeating the graph.
+- Local areas is visibly disabled when the selected measure only supports states, with a clear availability note. Switching back to a supported measure restores your preferred area setting.
+- States without data use a lighter grey with subtle diagonal slashes, making gaps easier to distinguish without heavy borders. The legend uses the same treatment.
 
-These improvements are shared by Mac and iPhone.
+These improvements are shared by Mac, iPhone and the web map.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.41-51.zip" length="10635878" type="application/octet-stream" sparkle:edSignature="d5ep8ETqAwfyI80h+O4WlqXN+4ktlmCnlM3INocsHVSkw4edzTjyAZVKUZb/gqjXDbkY0ACNwEW8fva3UEtFAg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.42-52.zip" length="10651365" type="application/octet-stream" sparkle:edSignature="NX7PRlBxa+zOyOZmAS/azxSoNE7TdtmH0dAavMpfDgXKBdyTqj1BMnUpq7w/RIrZSf3HpYs1sJtf1A/GtADYAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1T/gScsFpOPArlBQ+SVZM3uYv2yXxFv3kzW5xrhAHAovQbCPCUOwvO8u8sj9wa2MphJaHngVyJNFiKRb0e6TBQ==
-length: 1554
+edSignature: FitbgrCQ29h6qtug2gd1DXHTtz9qxVQro+YUnHG03GkjPf55uk+ZlS9S/4lmHNYtZ+9opVOWE8AtDrejpuvODg==
+length: 1556
 -->
