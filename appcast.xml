@@ -4,23 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.43</title>
-            <pubDate>Thu, 15 Oct 2026 16:28:57 -0400</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>0.3.43</sparkle:shortVersionString>
+            <title>0.3.44</title>
+            <pubDate>Thu, 15 Oct 2026 19:26:33 -0400</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>0.3.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.43
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.44
 
-- HHS region borders on the Analyst map are now a single thin gray line, so the regions read clearly without competing with the state colors. Shared borders and coastlines are the same weight, and small islands no longer show as dark dots.
-- Local wastewater areas now appear for about 30 more sites whose county CDC spells two ways, such as Saint Louis and St. Louis, or Prince Georges and Prince George's.
-- Norovirus no longer appears in the watched-illness menu. It has no current data source, so ticking it only added an empty card.
+- The Briefing's headline stories have a new look. Each story sits on a colored band: maroon when an illness is rising, blue when it is steady, green when it is easing. The top story's chart now has labeled axes and dates.
+- Each story's numbers now appear as tiles under the band, such as ED visits, test positivity, admissions, wastewater and the national figure. Each tile shows the latest value and last week's value or the region, and its color follows the activity level. Click a tile to open that chart.
+- An illness that already has a headline story no longer shows up again in Watching. A short line under Watching names the illnesses covered above.
 
-These improvements are shared by Mac, iPhone and the web map.
+These improvements are shared by Mac, iPhone and the web.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.43-53.zip" length="10653976" type="application/octet-stream" sparkle:edSignature="0xcrBt47s8e5iza4EEtwgBaav3WZ3KUsXWUy4/4KQ5iLbqNbvgumBy4AUyeRWJk5I/2Iox3nv/OXv2H/JHw/Dg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.44-54.zip" length="10671330" type="application/octet-stream" sparkle:edSignature="B7NVKIifuZixi5E+nEhB97R9rBVxB0aGRbDGJGLd9antrkvmNstSpfHZTuisBWEbKgMDCPZmjyxMSqHroh5ZDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +43pidkm+dFu3PJICnivTI8uTtyjTOaKfu7dAefV+HhY387Jg0qnDbqscvBqnXWOnhWnUWV5Mr/kCUvzQWFxBg==
-length: 1740
+edSignature: QoOvDaWwbPJriMfUXG6seMOXh9Mns2ZHFVdKjdczHRjW9LShd1MIXIpSCy765bmQSSS9pul0rkZxPXSrKtpsAA==
+length: 1857
 -->
