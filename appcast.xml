@@ -4,23 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.44</title>
-            <pubDate>Thu, 15 Oct 2026 19:26:33 -0400</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>0.3.44</sparkle:shortVersionString>
+            <title>0.3.45</title>
+            <pubDate>Fri, 16 Oct 2026 08:44:25 -0400</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>0.3.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.44
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.45
 
-- The Briefing's headline stories have a new look. Each story sits on a colored band: maroon when an illness is rising, blue when it is steady, green when it is easing. The top story's chart now has labeled axes and dates.
-- Each story's numbers now appear as tiles under the band, such as ED visits, test positivity, admissions, wastewater and the national figure. Each tile shows the latest value and last week's value or the region, and its color follows the activity level. Click a tile to open that chart.
-- An illness that already has a headline story no longer shows up again in Watching. A short line under Watching names the illnesses covered above.
-
-These improvements are shared by Mac, iPhone and the web.
+- Clicking a date on the map's week timeline no longer draws a blue box around the timeline. The selected week still shows in blue, and the arrow keys still step from week to week.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.44-54.zip" length="10671330" type="application/octet-stream" sparkle:edSignature="B7NVKIifuZixi5E+nEhB97R9rBVxB0aGRbDGJGLd9antrkvmNstSpfHZTuisBWEbKgMDCPZmjyxMSqHroh5ZDg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.45-55.zip" length="10671639" type="application/octet-stream" sparkle:edSignature="ZD9M8HW4u/lC5mjYz18dXfh+lumxjaUnJTu9JmAq1CrWhEZL7r3sdPk+TR3GQGgeR/cfgg9pDt//4XOtW/VeAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: QoOvDaWwbPJriMfUXG6seMOXh9Mns2ZHFVdKjdczHRjW9LShd1MIXIpSCy765bmQSSS9pul0rkZxPXSrKtpsAA==
-length: 1857
+edSignature: Xm/kzGQ3x9Yb3IriwXXAAErnj4ZlkawkCIAZJqUlJNbigvwvYBtzweuos6GFgbRiYqW/ZGcGowUsda6s+6HKAQ==
+length: 1320
 -->
