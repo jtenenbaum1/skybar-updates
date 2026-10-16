@@ -4,19 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.45</title>
-            <pubDate>Fri, 16 Oct 2026 08:44:25 -0400</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>0.3.45</sparkle:shortVersionString>
+            <title>0.3.46</title>
+            <pubDate>Fri, 16 Oct 2026 09:42:06 -0400</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>0.3.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.45
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.46
 
-- Clicking a date on the map's week timeline no longer draws a blue box around the timeline. The selected week still shows in blue, and the arrow keys still step from week to week.
+- The map's area details now give each measure its own card, with the measure's name in bold, so Wastewater, ED visits, Admissions and Positivity no longer run together.
+- The details panel is now titled with the place you picked, such as "Montana" or "Baltimore · Baltimore City", instead of "Selected evidence".
+
+The web map has the same cards, plus a smaller close button and Mac-style menus for Illness, Measure and Data areas.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.45-55.zip" length="10671639" type="application/octet-stream" sparkle:edSignature="ZD9M8HW4u/lC5mjYz18dXfh+lumxjaUnJTu9JmAq1CrWhEZL7r3sdPk+TR3GQGgeR/cfgg9pDt//4XOtW/VeAg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.46-56.zip" length="10678296" type="application/octet-stream" sparkle:edSignature="+8a01Hq2+uP2B/ngZJLTh6FhIsE1BoxPiwqApIBKGNQJKMgZSUcw1CU+EQmg7gt7iD8eQzKIo12MmRo0CH7yBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Xm/kzGQ3x9Yb3IriwXXAAErnj4ZlkawkCIAZJqUlJNbigvwvYBtzweuos6GFgbRiYqW/ZGcGowUsda6s+6HKAQ==
-length: 1320
+edSignature: jd1ard0wvZID91ZuyPwMitl1LTyTpo6wVXspeMM/nDNrys0JAA0JeZTNTLZXMiwLa9klIN+L3I8B3dh7AKlyBA==
+length: 1572
 -->
