@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.46</title>
-            <pubDate>Fri, 16 Oct 2026 09:42:06 -0400</pubDate>
-            <sparkle:version>56</sparkle:version>
-            <sparkle:shortVersionString>0.3.46</sparkle:shortVersionString>
+            <title>0.3.47</title>
+            <pubDate>Fri, 16 Oct 2026 12:20:49 -0400</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>0.3.47</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.46
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.47
 
-- The map's area details now give each measure its own card, with the measure's name in bold, so Wastewater, ED visits, Admissions and Positivity no longer run together.
-- The details panel is now titled with the place you picked, such as "Montana" or "Baltimore · Baltimore City", instead of "Selected evidence".
+- Local areas on the map now name the place in their details header: "Kings County, NY" for a single county, or "Montgomery – Prince Georges · Multi-county area, MD" when CDC's area covers several counties.
+- Instead of a bare "Current sample unavailable", each measure now says why: "No sample since Sep 12" when the last sample is older, "No recent sampling in this area" when a local area has none, and "Reported for states only" for admissions and test positivity, which CDC doesn't report for local areas.
 
-The web map has the same cards, plus a smaller close button and Mac-style menus for Illness, Measure and Data areas.
+These changes are shared by Mac, iPhone and the web map.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.46-56.zip" length="10678296" type="application/octet-stream" sparkle:edSignature="+8a01Hq2+uP2B/ngZJLTh6FhIsE1BoxPiwqApIBKGNQJKMgZSUcw1CU+EQmg7gt7iD8eQzKIo12MmRo0CH7yBA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.47-57.zip" length="10682435" type="application/octet-stream" sparkle:edSignature="0DFwPpwypkOSt5ZHvF5bnDAqWepraeRYYgKBMeIJj36CUu1TkT2iaOrSzIzIb3dMBz7v0SmgteBaY9YS1B8aCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jd1ard0wvZID91ZuyPwMitl1LTyTpo6wVXspeMM/nDNrys0JAA0JeZTNTLZXMiwLa9klIN+L3I8B3dh7AKlyBA==
-length: 1572
+edSignature: MefdhkUOkCx3qWrbzhtyD54kqnzCR7LzF6PVDt4P1DOi5h6QwY+4KjJKtlRICdWc2TxOLQwXt27uW3L7ru/mBw==
+length: 1711
 -->
