@@ -4,22 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.48</title>
-            <pubDate>Fri, 16 Oct 2026 13:10:08 -0400</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>0.3.48</sparkle:shortVersionString>
+            <title>0.3.49</title>
+            <pubDate>Fri, 06 Nov 2026 12:16:45 -0500</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>0.3.49</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.48
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.49
 
-- Briefing and Map are now a large switch at the top of the sidebar, with an icon over each name, so they stand out from the illness list. The one you're on is filled in blue.
-- In Simple, the map's Local areas now show every local area CDC reports, across the country, not only the ones near where you last zoomed in. Their outlines are thinner and lighter, so they don't crowd the colors.
-
-The web app has the same sidebar switch, and its map loads right away even while it refreshes CDC data.
+- There's a new app icon: a radar sweep on midnight navy.
+- On the map, flu positivity now runs from amber to bright red as it rises, so the highest states stand out instead of fading into the dark map.
+- The Briefing now reads flu positivity from the same CDC source as the map, so the two show the same week.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.48-58.zip" length="10691656" type="application/octet-stream" sparkle:edSignature="KQOttHFhN8TxRrUlUV4N78dhkCgGz9zZ2d8JTTPD3bUH9dQLxDoQmG50nZclDdEGRogpJdaSudRLM5tShiaXBw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.49-59.zip" length="9477576" type="application/octet-stream" sparkle:edSignature="UnLw19T8wYB5IFY/1oeN9r382HBg4v4wSsmZJqBEqhqjkVBlvgrs0GlIYJRx1I961CwY2ZW2yAGV6rphqpVNCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: phQZdbr9tMjDvinDch437TaA92e0xJZcRZLt8QG7feqgHxIcm/D7isbRBsIm+HfnqFJc7RFXMf1GOt/RRfM9Cg==
-length: 1635
+edSignature: vUo9AYB2FI3Re4USBQ9EvG+ZHYNB7uocDU00lMItp6ptZjXYp/oDYA4dJyB8XacyDP3Z8jgSmEO5X6welhnhDA==
+length: 1449
 -->
