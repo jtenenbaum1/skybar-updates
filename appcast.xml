@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.49</title>
-            <pubDate>Fri, 06 Nov 2026 12:16:45 -0500</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>0.3.49</sparkle:shortVersionString>
+            <title>0.3.50</title>
+            <pubDate>Fri, 06 Nov 2026 21:06:38 -0500</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.3.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.49
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.50
 
-- There's a new app icon: a radar sweep on midnight navy.
-- On the map, flu positivity now runs from amber to bright red as it rises, so the highest states stand out instead of fading into the dark map.
-- The Briefing now reads flu positivity from the same CDC source as the map, so the two show the same week.
+- There's a new app icon: white radar rings on blue, with a coral germ where the sweep lands. It's bolder and easier to see at small sizes.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.49-59.zip" length="9477576" type="application/octet-stream" sparkle:edSignature="UnLw19T8wYB5IFY/1oeN9r382HBg4v4wSsmZJqBEqhqjkVBlvgrs0GlIYJRx1I961CwY2ZW2yAGV6rphqpVNCw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.50-60.zip" length="8239821" type="application/octet-stream" sparkle:edSignature="kitcdDzv8wsVJyKrmNYD/Jx8OUDpKg+hZUZ4gV+Ajq8gWlc89rBD5AmonlW7W4SEpfOiekcVbuy6Iw3jO4rhCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vUo9AYB2FI3Re4USBQ9EvG+ZHYNB7uocDU00lMItp6ptZjXYp/oDYA4dJyB8XacyDP3Z8jgSmEO5X6welhnhDA==
-length: 1449
+edSignature: PYgH6zTDHXQmBWAfScbMZHJ1Ycg+h9Fj5+bwo/EyiLhe65wyvlAXdSF6Or/rOGb6ZJQ6Tegpj+vqXanxjDF6CA==
+length: 1278
 -->
