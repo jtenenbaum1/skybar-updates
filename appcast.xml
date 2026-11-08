@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.50</title>
-            <pubDate>Fri, 06 Nov 2026 21:06:38 -0500</pubDate>
-            <sparkle:version>60</sparkle:version>
-            <sparkle:shortVersionString>0.3.50</sparkle:shortVersionString>
+            <title>0.3.51</title>
+            <pubDate>Sat, 07 Nov 2026 20:47:26 -0500</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>0.3.51</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.50
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.51
 
-- There's a new app icon: white radar rings on blue, with a coral germ where the sweep lands. It's bolder and easier to see at small sizes.
+- The map's header now shows what you're looking at (illness, measure, areas and week) in larger, bolder text.
+- The Briefing / Map switch in the sidebar is now a standard-size toggle, and the sidebar has one divider instead of two.
+- In Analyst, the legend explains the orange and blue state outlines without being opened: orange means wastewater is rising, blue means it's falling.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.50-60.zip" length="8239821" type="application/octet-stream" sparkle:edSignature="kitcdDzv8wsVJyKrmNYD/Jx8OUDpKg+hZUZ4gV+Ajq8gWlc89rBD5AmonlW7W4SEpfOiekcVbuy6Iw3jO4rhCQ=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.51-61.zip" length="8239679" type="application/octet-stream" sparkle:edSignature="Gvh0IHNP46Bo7jqalae91OmyysclvanorW4dg3qNjgMfUIjsNvju7xs4P5+h3yOJafda43j+ijMagEcxfUOkAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: PYgH6zTDHXQmBWAfScbMZHJ1Ycg+h9Fj5+bwo/EyiLhe65wyvlAXdSF6Or/rOGb6ZJQ6Tegpj+vqXanxjDF6CA==
-length: 1278
+edSignature: Xg9tndAmd8uPRLxq6Eu7lW+HJ7w2FC0fZmf/tnwBq7hYEeSZ0RElA0STVs6s62b0Gi6nA8DN1Ixt+PA8Bx5eBg==
+length: 1522
 -->
