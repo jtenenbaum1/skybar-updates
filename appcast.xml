@@ -4,19 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.54</title>
-            <pubDate>Sun, 08 Nov 2026 18:15:01 -0500</pubDate>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>0.3.54</sparkle:shortVersionString>
+            <title>0.3.55</title>
+            <pubDate>Sun, 08 Nov 2026 18:20:43 -0500</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>0.3.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.54
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.55
 
-- Briefing, Map and Weather now sit in one glass bar at the top of the window, with the selected page highlighted.
+- Allowing location access now sticks. Going Around keeps its location request open until you answer, so clicking Allow is never lost and the prompt doesn't come back.
+- Weather, illness and trends load as soon as you allow location, instead of at the next refresh.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.54-64.zip" length="8887949" type="application/octet-stream" sparkle:edSignature="Y22Y4bDlA6HbzMrtP0qEb2qGbTiswi91zh/qlzSEBt6cDWDk4o2WrF4D93NtpVQ4tJE/Dht51ZHE8M75pJjIBg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.55-65.zip" length="8896013" type="application/octet-stream" sparkle:edSignature="7x8xFpWececGMl5iY5R2DyN9wyhCPmQi9C8DnKY6zi9gdSmfVvJDkDdVLP83tHvHR3eLiSy3AG/iIF8i9wOfDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OWWCeGEzCrUujvLUdnW4ndexFQSodf0hPFTYRlLFPYdbys5CbAVkz7e4Il5IeH0qj/IscgqqQAiEiIhptv24DQ==
-length: 1253
+edSignature: dDLDxVnGIX7H5BxNCEKFcfFb9y5eYA4u/ySQ5aYllEjcd6VOdOG4b2hBzhCfm1qyOKUmCkMuwE3OMo95oXlvAg==
+length: 1404
 -->
