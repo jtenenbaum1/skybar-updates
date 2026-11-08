@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.53</title>
-            <pubDate>Sun, 08 Nov 2026 17:22:19 -0500</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>0.3.53</sparkle:shortVersionString>
+            <title>0.3.54</title>
+            <pubDate>Sun, 08 Nov 2026 18:15:01 -0500</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>0.3.54</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.53
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.54
 
-- The Briefing / Map / Weather switch now sits at the top middle of the window, where the Weather / Illness toggle used to be, and the sidebar starts with your places again.
+- Briefing, Map and Weather now sit in one glass bar at the top of the window, with the selected page highlighted.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.53-63.zip" length="8878674" type="application/octet-stream" sparkle:edSignature="oTwE0SMOnbWtVXWmcYLjMUxhoRzjQ2rcMKBZkk9CNYEmaSqwhiuxyi/razUrlbtEePUNH3YBmRiFtpRp86+5CA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.54-64.zip" length="8887949" type="application/octet-stream" sparkle:edSignature="Y22Y4bDlA6HbzMrtP0qEb2qGbTiswi91zh/qlzSEBt6cDWDk4o2WrF4D93NtpVQ4tJE/Dht51ZHE8M75pJjIBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: SUBFp/RcKiZqDDCTl4g9emYH7iyfyh2w3Ch2NBhz2Gz5i390zST7OnpgjJU3HQp/qIyDSDiN/zEI/7V6TuFOBg==
-length: 1312
+edSignature: OWWCeGEzCrUujvLUdnW4ndexFQSodf0hPFTYRlLFPYdbys5CbAVkz7e4Il5IeH0qj/IscgqqQAiEiIhptv24DQ==
+length: 1253
 -->
