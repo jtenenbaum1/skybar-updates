@@ -4,21 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.51</title>
-            <pubDate>Sat, 07 Nov 2026 20:47:26 -0500</pubDate>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>0.3.51</sparkle:shortVersionString>
+            <title>0.3.52</title>
+            <pubDate>Sun, 08 Nov 2026 16:46:51 -0500</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>0.3.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.51
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.52
 
-- The map's header now shows what you're looking at (illness, measure, areas and week) in larger, bolder text.
-- The Briefing / Map switch in the sidebar is now a standard-size toggle, and the sidebar has one divider instead of two.
-- In Analyst, the legend explains the orange and blue state outlines without being opened: orange means wastewater is rising, blue means it's falling.
+- One switch at the top of the sidebar now moves between Briefing, Map and Weather. The separate Weather / Illness toggle is gone.
+- Going Around asks for your location once, instead of again at every weather refresh while you haven't answered.
+- With CDC's flu activity (ILI) colors on the map, the map now uses a light style so place names stay readable.
+- New map buttons: show the whole US, or zoom to the area around your location.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.51-61.zip" length="8239679" type="application/octet-stream" sparkle:edSignature="Gvh0IHNP46Bo7jqalae91OmyysclvanorW4dg3qNjgMfUIjsNvju7xs4P5+h3yOJafda43j+ijMagEcxfUOkAw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.52-62.zip" length="8876136" type="application/octet-stream" sparkle:edSignature="Ot/9GllbF/bP8tW74+GhEYfI8f0AntsUMYsChvQZUmph+yzwysn60ipBUZpsowQMXavWsnn7f2Ce5caQYyWlBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Xg9tndAmd8uPRLxq6Eu7lW+HJ7w2FC0fZmf/tnwBq7hYEeSZ0RElA0STVs6s62b0Gi6nA8DN1Ixt+PA8Bx5eBg==
-length: 1522
+edSignature: yUEd9U1NGXYY+2TtXcync6pjkzVZHtz4Sy7TgA+/vi036U02TLwQ83RGqZ8A9A3wrOHjOd40oYWXJOQgcVPvAw==
+length: 1575
 -->
