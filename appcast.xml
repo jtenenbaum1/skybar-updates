@@ -4,19 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.56</title>
-            <pubDate>Mon, 09 Nov 2026 08:43:02 -0500</pubDate>
-            <sparkle:version>66</sparkle:version>
-            <sparkle:shortVersionString>0.3.56</sparkle:shortVersionString>
+            <title>0.3.57</title>
+            <pubDate>Mon, 09 Nov 2026 10:27:33 -0500</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>0.3.57</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.56
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.57
 
-- The Briefing / Map / Weather switch at the top of the window now looks like a standard tab bar: one glass bar, with the page you're on in a solid accent-colored pill.
+- The menu bar's Illness tab now shows a Briefing-style story for the illness you pick. Choose Flu, COVID or RSV to see its activity headline, a recent chart and a tile for each measure: ED visits, test positivity, admissions, wastewater and more.
+- Click the headline, chart or any tile to open that chart in the main window.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.56-66.zip" length="8897047" type="application/octet-stream" sparkle:edSignature="qYGemwYQJFlbOMhsDS2vjWK5W/FSxWwScoHFzBJh7L3hq56x+NlADNI56Wo3t+y7e5fNYscNUWkhRS1MHcteAw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.57-67.zip" length="8868493" type="application/octet-stream" sparkle:edSignature="FnltHEywk21SKUSsaNDYm1BxmygSlA4lUTXR7dix12ogqmgqKbuNxeF9mGDWP6qMrHt+SqRPOxvePVCu+mbfCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iKdIaJcj7vlS4/2eLYhDJZa3j4IvUOh64doKcQmsVn7D6No72YOudGTKEuGrvu69vCfGLWWgMS+9znAvCA4RDw==
-length: 1307
+edSignature: hREuEjYMjnrtl8HGR/DmqsOeYe9cNEADwDfWKzFTLqZwAzIXjCVygCUufEWuUDrO+pUjkg4oV2Y9+z2vEaAsCA==
+length: 1465
 -->
