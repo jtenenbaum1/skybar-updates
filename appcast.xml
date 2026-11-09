@@ -4,20 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.57</title>
-            <pubDate>Mon, 09 Nov 2026 10:27:33 -0500</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>0.3.57</sparkle:shortVersionString>
+            <title>0.3.58</title>
+            <pubDate>Mon, 09 Nov 2026 11:04:02 -0500</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.3.58</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.57
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.58
 
-- The menu bar's Illness tab now shows a Briefing-style story for the illness you pick. Choose Flu, COVID or RSV to see its activity headline, a recent chart and a tile for each measure: ED visits, test positivity, admissions, wastewater and more.
-- Click the headline, chart or any tile to open that chart in the main window.
+- The Briefing / Map / Weather switch at the top of the window is now the standard macOS control, drawn in Liquid Glass.
+- The menu bar's Weather / Illness switch uses the same standard control.
+- The Map page's "Show the whole US" button shows a clean US outline again.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.57-67.zip" length="8868493" type="application/octet-stream" sparkle:edSignature="FnltHEywk21SKUSsaNDYm1BxmygSlA4lUTXR7dix12ogqmgqKbuNxeF9mGDWP6qMrHt+SqRPOxvePVCu+mbfCw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.58-68.zip" length="8850603" type="application/octet-stream" sparkle:edSignature="vdPRw+OcTacdkW6V9MbPuewE4T5sf0fgfrEP7MIcJcgFGUGYFL4l8ZAmaqg2r/JyBS62h2gSPmuA8sXz0qicDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hREuEjYMjnrtl8HGR/DmqsOeYe9cNEADwDfWKzFTLqZwAzIXjCVygCUufEWuUDrO+pUjkg4oV2Y9+z2vEaAsCA==
-length: 1465
+edSignature: bzoD9reIePG2fPiVSiy/6qxfJikVfS14E3tMn7mhawlz49RXR6smbe8/axSsC64QrjORMYbOzGID+N/KdV/cAg==
+length: 1409
 -->
