@@ -4,20 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.55</title>
-            <pubDate>Sun, 08 Nov 2026 18:20:43 -0500</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>0.3.55</sparkle:shortVersionString>
+            <title>0.3.56</title>
+            <pubDate>Mon, 09 Nov 2026 08:43:02 -0500</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>0.3.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.55
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.56
 
-- Allowing location access now sticks. Going Around keeps its location request open until you answer, so clicking Allow is never lost and the prompt doesn't come back.
-- Weather, illness and trends load as soon as you allow location, instead of at the next refresh.
+- The Briefing / Map / Weather switch at the top of the window now looks like a standard tab bar: one glass bar, with the page you're on in a solid accent-colored pill.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.55-65.zip" length="8896013" type="application/octet-stream" sparkle:edSignature="7x8xFpWececGMl5iY5R2DyN9wyhCPmQi9C8DnKY6zi9gdSmfVvJDkDdVLP83tHvHR3eLiSy3AG/iIF8i9wOfDg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.56-66.zip" length="8897047" type="application/octet-stream" sparkle:edSignature="qYGemwYQJFlbOMhsDS2vjWK5W/FSxWwScoHFzBJh7L3hq56x+NlADNI56Wo3t+y7e5fNYscNUWkhRS1MHcteAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dDLDxVnGIX7H5BxNCEKFcfFb9y5eYA4u/ySQ5aYllEjcd6VOdOG4b2hBzhCfm1qyOKUmCkMuwE3OMo95oXlvAg==
-length: 1404
+edSignature: iKdIaJcj7vlS4/2eLYhDJZa3j4IvUOh64doKcQmsVn7D6No72YOudGTKEuGrvu69vCfGLWWgMS+9znAvCA4RDw==
+length: 1307
 -->
