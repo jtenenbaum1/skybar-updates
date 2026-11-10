@@ -4,22 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.60</title>
-            <pubDate>Tue, 10 Nov 2026 10:21:48 -0500</pubDate>
-            <sparkle:version>70</sparkle:version>
-            <sparkle:shortVersionString>0.3.60</sparkle:shortVersionString>
+            <title>0.3.61</title>
+            <pubDate>Tue, 10 Nov 2026 15:02:53 -0500</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>0.3.61</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.60
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.61
 
-- Switching between Briefing, Map and Weather in the main window is smoother. Briefing and Weather stay loaded, so switching between them no longer rebuilds the page.
-- The map shows a brief loading indicator while it opens, so the Briefing / Map / Weather switch slides without stuttering.
-- The Refresh button now stays in the toolbar on Weather too, and refreshes whichever section is showing.
-- The window title reads "Weather" on the Weather page.
+- While the map opens, a softly pulsing outline of the US stands in for it, in place of a spinner.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.60-70.zip" length="8868478" type="application/octet-stream" sparkle:edSignature="ltawShZVsWUO01Urb2FT2PXcWamKUFt8rU6VPjn6v/OO5D7UxuZue9zMDWQDjO84G+5IqdoIO4oTCEr544czCw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.61-71.zip" length="8875983" type="application/octet-stream" sparkle:edSignature="0qF863sriPzKdxQ1JLV1StGvWRrVeTwmSQsu5qvblAM2vgbQgC8vWbStgbvcKnSypdeiauVb4bUuJNtKiCrOCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: j1r9D7VAgN4jv4k8dBAcXvVbL9kB0LHk1J4uy8IiSabD0ljGj7ARJnARM4sSbk8KMPuTp9aw0eZwcXt7sT7CAg==
-length: 1591
+edSignature: WFsb/7B8MipfwAeQ9bKZ7446+EtnURyLzvI8l3OCTYUBA7D4J3/VN2IoJi5c0U0LFluAXpfNs5TX+vw7HJKFBQ==
+length: 1237
 -->
