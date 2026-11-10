@@ -4,21 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.58</title>
-            <pubDate>Mon, 09 Nov 2026 11:04:02 -0500</pubDate>
-            <sparkle:version>68</sparkle:version>
-            <sparkle:shortVersionString>0.3.58</sparkle:shortVersionString>
+            <title>0.3.60</title>
+            <pubDate>Tue, 10 Nov 2026 10:21:48 -0500</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>0.3.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.58
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.60
 
-- The Briefing / Map / Weather switch at the top of the window is now the standard macOS control, drawn in Liquid Glass.
-- The menu bar's Weather / Illness switch uses the same standard control.
-- The Map page's "Show the whole US" button shows a clean US outline again.
+- Switching between Briefing, Map and Weather in the main window is smoother. Briefing and Weather stay loaded, so switching between them no longer rebuilds the page.
+- The map shows a brief loading indicator while it opens, so the Briefing / Map / Weather switch slides without stuttering.
+- The Refresh button now stays in the toolbar on Weather too, and refreshes whichever section is showing.
+- The window title reads "Weather" on the Weather page.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.58-68.zip" length="8850603" type="application/octet-stream" sparkle:edSignature="vdPRw+OcTacdkW6V9MbPuewE4T5sf0fgfrEP7MIcJcgFGUGYFL4l8ZAmaqg2r/JyBS62h2gSPmuA8sXz0qicDw=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.60-70.zip" length="8868478" type="application/octet-stream" sparkle:edSignature="ltawShZVsWUO01Urb2FT2PXcWamKUFt8rU6VPjn6v/OO5D7UxuZue9zMDWQDjO84G+5IqdoIO4oTCEr544czCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bzoD9reIePG2fPiVSiy/6qxfJikVfS14E3tMn7mhawlz49RXR6smbe8/axSsC64QrjORMYbOzGID+N/KdV/cAg==
-length: 1409
+edSignature: j1r9D7VAgN4jv4k8dBAcXvVbL9kB0LHk1J4uy8IiSabD0ljGj7ARJnARM4sSbk8KMPuTp9aw0eZwcXt7sT7CAg==
+length: 1591
 -->
