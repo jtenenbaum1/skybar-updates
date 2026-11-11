@@ -4,19 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.61</title>
-            <pubDate>Tue, 10 Nov 2026 15:02:53 -0500</pubDate>
-            <sparkle:version>71</sparkle:version>
-            <sparkle:shortVersionString>0.3.61</sparkle:shortVersionString>
+            <title>0.3.62</title>
+            <pubDate>Wed, 11 Nov 2026 00:37:37 -0500</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>0.3.62</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.61
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.62
 
-- While the map opens, a softly pulsing outline of the US stands in for it, in place of a spinner.
+- New: illness alerts for Flu, COVID and RSV. Turn them on in Settings › Illness alerts.
+  - **Level goes up:** a notification when one of them moves up a level near you, for example Moderate to High.
+  - **Level drops back down:** when a level falls back from Moderate or higher.
+  - **Forecast warning:** when CDC's forecast says your state will move up a level next week.
+  - **Monday summary:** all three levels at 8 AM every Monday.
+- At most 2 alerts a week, including the Monday summary. Alerts about High or Very high levels always come through.
+- "Near you" is the same reading the app shows: your county's wastewater sites when they reported this week, otherwise your state.
+- Clicking an alert opens that illness in the main window.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.61-71.zip" length="8875983" type="application/octet-stream" sparkle:edSignature="0qF863sriPzKdxQ1JLV1StGvWRrVeTwmSQsu5qvblAM2vgbQgC8vWbStgbvcKnSypdeiauVb4bUuJNtKiCrOCA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.62-72.zip" length="9003287" type="application/octet-stream" sparkle:edSignature="vZISAj0D6Zc6K2hySVHvEkBDEpP9nwis52Ljw3iG79kgvfPYeBi4w5JnShNOOwciK9Suk3DLVOEqimxRoWGlAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WFsb/7B8MipfwAeQ9bKZ7446+EtnURyLzvI8l3OCTYUBA7D4J3/VN2IoJi5c0U0LFluAXpfNs5TX+vw7HJKFBQ==
-length: 1237
+edSignature: C9Fe38IuSxCTDwSRKDrcN5k0rQIPAr2nycOl69Wi2hXDaPpBTlMMlb4Y868Dot5nSYjOV9VSrnrgDcAaEll+DA==
+length: 1884
 -->
