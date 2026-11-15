@@ -4,26 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.62</title>
-            <pubDate>Wed, 11 Nov 2026 00:37:37 -0500</pubDate>
-            <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>0.3.62</sparkle:shortVersionString>
+            <title>0.3.63</title>
+            <pubDate>Sun, 15 Nov 2026 18:35:40 -0500</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>0.3.63</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.62
+            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.63
 
-- New: illness alerts for Flu, COVID and RSV. Turn them on in Settings › Illness alerts.
-  - **Level goes up:** a notification when one of them moves up a level near you, for example Moderate to High.
-  - **Level drops back down:** when a level falls back from Moderate or higher.
-  - **Forecast warning:** when CDC's forecast says your state will move up a level next week.
-  - **Monday summary:** all three levels at 8 AM every Monday.
-- At most 2 alerts a week, including the Monday summary. Alerts about High or Very high levels always come through.
-- "Near you" is the same reading the app shows: your county's wastewater sites when they reported this week, otherwise your state.
-- Clicking an alert opens that illness in the main window.
+- Cleaner top for the Illness menu: the level now sits in one card colored by how high it is, with the source underneath.
+- A trend, when there is one, shows as a small label on that card.
+- "Flu rising nearby" is now its own card. Click it to open Trends.
+- The open-in-app and actions buttons sit next to the place name.
+- The Illness tab's background is dark slate instead of purple, so the level colors stand out.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.62-72.zip" length="9003287" type="application/octet-stream" sparkle:edSignature="vZISAj0D6Zc6K2hySVHvEkBDEpP9nwis52Ljw3iG79kgvfPYeBi4w5JnShNOOwciK9Suk3DLVOEqimxRoWGlAg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.63-73.zip" length="9018427" type="application/octet-stream" sparkle:edSignature="Vx3L8VgSUA4WM2pImh/zUlHG9DfQYBSNKmiPlS87TIInawxYKevfEqi/AjcRHVG+tvQks3skekk+oQVJz+K5Cw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: C9Fe38IuSxCTDwSRKDrcN5k0rQIPAr2nycOl69Wi2hXDaPpBTlMMlb4Y868Dot5nSYjOV9VSrnrgDcAaEll+DA==
-length: 1884
+edSignature: 4UuUH0f0SFqpLZX5L5vjphDxyDdMYSTm6OXlHVr2Q1nN0/6cmDQ82U08rJJa/QtlLbmbiMY/QyrMOH2oY8ZFBw==
+length: 1556
 -->
