@@ -2,21 +2,23 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>GoingAround</title>
+        <title>Germcast</title>
         <item>
-            <title>0.3.65</title>
-            <pubDate>Mon, 16 Nov 2026 09:11:13 -0500</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>0.3.65</sparkle:shortVersionString>
+            <title>0.3.66</title>
+            <pubDate>Mon, 16 Nov 2026 16:11:36 -0500</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>0.3.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Germcast 0.3.65
+            <description sparkle:format="markdown"><![CDATA[# Germcast 0.3.66
 
-- Going Around is now called Germcast. Same app, same data, and your settings carry over.
+- The app now appears as Germcast in Finder and the Dock.
+- The map opens zoomed to your region. The first time you open it each day, it starts as a single map with no markers.
+- New installs start the map on Flu test positivity.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.65-75.zip" length="9020793" type="application/octet-stream" sparkle:edSignature="s5Kjab9fPErE7n+0g+TbQ2FkG2mOCaduBunXhq/QMPotUAlUQqbIcUnpJlrIeinfTucOET2nb/1UeHANuZuKAA=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.66-76.zip" length="9029686" type="application/octet-stream" sparkle:edSignature="br9v4HQzzD5UD8OPjLtcMT7zgRMiUvT/jBYoqR3ji4ZObvezySiuNs9djvHfd1/wvEWJuF1YblXvunzu6K+fAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7G3wK+WtxGD0+caBIo4A1ekF7UUbztARVvkXeFLsCBbWBUyIvKRgsluDjDHqDqPIp0d8oG9PheFNtmZNGkYiAQ==
-length: 1224
+edSignature: h5likmFfcVIsCH4n8RcKivHmUGJeZIrP51c9WwKlLEFC+/W28ceNEd0rNcqPnVMda51jZI3I7PIl02R9ugWWDQ==
+length: 1361
 -->
