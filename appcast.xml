@@ -4,22 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>GoingAround</title>
         <item>
-            <title>0.3.64</title>
-            <pubDate>Mon, 16 Nov 2026 08:42:11 -0500</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>0.3.64</sparkle:shortVersionString>
+            <title>0.3.65</title>
+            <pubDate>Mon, 16 Nov 2026 09:11:13 -0500</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>0.3.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Going Around 0.3.64
+            <description sparkle:format="markdown"><![CDATA[# Germcast 0.3.65
 
-- Illness alerts now match the screen. The Monday summary names the trend as well as the level, for example "Flu Low, rising".
-- The story label shows the level too, for example "Low · Rising".
-- No "down to" alert while the illness is still rising.
-- "Data through" in the footer now shows the week of the CDC data, not the measles feed's newer week.
+- Going Around is now called Germcast. Same app, same data, and your settings carry over.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.64-74.zip" length="9021101" type="application/octet-stream" sparkle:edSignature="A+SB+wqA9mmLpHnmrNW+z6o77L9fIztBrZ+Tj5XdmcbuupAPrG74DARi0WTZcJlGbtVPQh4RbfzwIHqsmdKwDg=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.65-75.zip" length="9020793" type="application/octet-stream" sparkle:edSignature="s5Kjab9fPErE7n+0g+TbQ2FkG2mOCaduBunXhq/QMPotUAlUQqbIcUnpJlrIeinfTucOET2nb/1UeHANuZuKAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 24iND23sjswe2hC4FjzQv4OraIYWIkYKCtlaD01HCiENKq72HNIq3SgLbID3UZQnSJr2JOyR9c5QiicFymmNCA==
-length: 1491
+edSignature: 7G3wK+WtxGD0+caBIo4A1ekF7UUbztARVvkXeFLsCBbWBUyIvKRgsluDjDHqDqPIp0d8oG9PheFNtmZNGkYiAQ==
+length: 1224
 -->
