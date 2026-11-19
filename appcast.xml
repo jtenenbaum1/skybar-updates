@@ -4,20 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Germcast</title>
         <item>
-            <title>0.3.67</title>
-            <pubDate>Tue, 17 Nov 2026 09:33:03 -0500</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>0.3.67</sparkle:shortVersionString>
+            <title>0.3.68</title>
+            <pubDate>Thu, 19 Nov 2026 14:58:44 -0500</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>0.3.68</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Germcast 0.3.67
+            <description sparkle:format="markdown"><![CDATA[# Germcast 0.3.68
 
-- On the Briefing, click a signal under the top story (ED visits, test positivity, wastewater, ILI, nationally) to see its chart in the story card, with a line saying what changed, like "ED visits up 36% in 2 weeks". Click it again to go back.
-- The menu bar card works the same way.
+- Comparing two maps side by side no longer pushes the window's content up: the sidebar stays in place and the week's play controls show under the maps again.
 ]]></description>
-            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.67-77.zip" length="9052637" type="application/octet-stream" sparkle:edSignature="+O6ELXepW39OL90J0MrXWWETt0r91ol7lhrPjjBFTdpmL+WPAgnP2rGngXrdZuEcnZ0gFLfsXFZ5iLASKQ4qCQ=="></enclosure>
+            <enclosure url="https://jtenenbaum1.github.io/skybar-updates/GoingAround-0.3.68-78.zip" length="9053484" type="application/octet-stream" sparkle:edSignature="ErD6r+ZN3LbJPZP4GR/boc1wdiYHaI6pSj88sCFPVr+wPYD9V8YARhnH591lrp608ik7W7zL76qmD39xtTuBAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6vJ2uBce+idd00wcaY+CaeDuOIb+ON05bT1NUJvLcizghvrNaFn69MBhALWMNMwejTOZvKpVZlhb14wAy5biCA==
-length: 1415
+edSignature: Il6nRpmSO13tcdZGfVgB5UQy2nb8oE8gt5p6WtbbJgD8gHBZ2UTKq6GfC5/JcPSzWIm6I1x5FIyzdLEWhb9wCg==
+length: 1290
 -->
